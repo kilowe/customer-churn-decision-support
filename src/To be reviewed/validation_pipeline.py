@@ -3,7 +3,10 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
+<<<<<<< HEAD
 import numpy as np
+=======
+>>>>>>> 59e3270 ( correctio on implementing the firs draft of validation pipeline and threshod before handle with final test evalutation ...)
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
@@ -85,6 +88,7 @@ def fit_models_and_export_probabilities() -> None:
     baseline_model.fit(X_train, y_train)
     balanced_model.fit(X_train, y_train)
 
+<<<<<<< HEAD
     # ----------------------------
     # Coefficients and odds ratios (top churn drivers)
     # ----------------------------
@@ -116,6 +120,8 @@ def fit_models_and_export_probabilities() -> None:
     print("\nTop drivers (sorted by |coef_baseline|):")
     print(coefficients_odds_ratios.to_string(index=False))
 
+=======
+>>>>>>> 59e3270 ( correctio on implementing the firs draft of validation pipeline and threshod before handle with final test evalutation ...)
     val_baseline_proba = baseline_model.predict_proba(X_val)[:, 1]
     val_balanced_proba = balanced_model.predict_proba(X_val)[:, 1]
 
@@ -185,7 +191,10 @@ def fit_models_and_export_probabilities() -> None:
     print(f"- {OUTPUT_DIR / 'split_summary.csv'}")
     print(f"- {OUTPUT_DIR / 'validation_probabilities.csv'}")
     print(f"- {OUTPUT_DIR / 'test_probabilities.csv'}")
+<<<<<<< HEAD
     print(f"- {OUTPUT_DIR / 'coefficients_odds_ratios.csv'}")
+=======
+>>>>>>> 59e3270 ( correctio on implementing the firs draft of validation pipeline and threshod before handle with final test evalutation ...)
 
 
 if __name__ == "__main__":
