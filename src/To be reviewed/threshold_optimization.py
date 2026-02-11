@@ -30,11 +30,7 @@ SCENARIOS = {
 
 
 def build_threshold_grid() -> pd.DataFrame:
-<<<<<<< HEAD
-    """The Evaluate validation metrics across thresholds for both models.
-=======
     """Evaluate validation metrics across thresholds for both models.
->>>>>>> 59e3270 ( correctio on implementing the firs draft of validation pipeline and threshod before handle with final test evalutation ...)
 
     Why:
     Threshold selection must be based on validation data only.
