@@ -329,9 +329,9 @@ def save_processed(df: pd.DataFrame, path=PROCESSED_TELCO_PATH) -> None:
 
 def run_preprocessing(save_csv: bool = True) -> tuple[pd.DataFrame, pd.Series]:
     """
-    End-to-end preprocessing runner (Day 7 + Day 8 encoding).
+    End-to-end preprocessing runner.
 
-    Day 7 scope (cleaning, no optimization):
+    Sscope (cleaning, no optimization):
     - Load raw CSV
     - Print summary (before)
     - Convert TotalCharges to numeric
@@ -339,7 +339,7 @@ def run_preprocessing(save_csv: bool = True) -> tuple[pd.DataFrame, pd.Series]:
     - Save cleaned dataset (optional)
     - Build X and y (no split)
 
-    Day 8 scope (encoding, no scaling, no model):
+    Scope (encoding, no scaling, no model):
     - Encode selected binary columns to 0/1
     - One-hot encode selected nominal columns
     - Encode Contract with explicit ordinal mapping
@@ -356,13 +356,13 @@ def run_preprocessing(save_csv: bool = True) -> tuple[pd.DataFrame, pd.Series]:
     print_basic_summary(df_raw, "RAW DATA SUMMARY (before cleaning)")
 
     # ----------------------------
-    # 2) Cleaning (Day 7)
+    # 2) Cleaning
     # ----------------------------
     df = clean_total_charges(df_raw)
     df = handle_missing_values(df)
 
     # IMPORTANT:
-    # We do NOT encode everything here; Day 8 specifies exactly what to encode.
+    # We do NOT encode everything here; specifies exactly what to encode.
     # Also, we do NOT "optimize" by removing outliers or manipulating extremes.
 
     print_basic_summary(df, "CLEANED DATA SUMMARY (after cleaning)")

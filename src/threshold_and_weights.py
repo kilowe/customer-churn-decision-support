@@ -63,7 +63,6 @@ def predict_with_threshold(
 ) -> np.ndarray:
     """
     Convert churn probabilities into class predictions using a custom threshold.
-
     Default threshold is 0.5, but lowering it increases recall (typically) at the cost of precision.
     """
     proba_churn = model.predict_proba(X)[:, 1]

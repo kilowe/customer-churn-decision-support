@@ -71,8 +71,8 @@ def evaluate_classification(y_true: pd.Series, y_pred: np.ndarray) -> None:
     """
     Print required metrics:
     - Accuracy (informational only)
-    - Recall (churn class = 1)
-    - Precision (churn class = 1)
+    - Recall (on negative class = 1)
+    - Precision (negative class = 1)
     - Confusion Matrix
 
     Also includes a business-first interpretation of FP/FN.
