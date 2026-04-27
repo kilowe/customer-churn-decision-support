@@ -25,3 +25,34 @@ This repository should therefore be read as the description of an AI-based decis
 ### Project positioning
 
 This work is part of an approach focused on the integration and supervision of AI systems, rather than on the development of isolated models. It aims to illustrate how machine learning tools can be responsibly integrated into existing business processes, with explicit usage rules and clearly defined human responsibility.
+
+## Reproducibility supplement
+
+The original scripts in `src/` provide the initial prototype for preprocessing, model training, threshold comparison, and testing.
+
+This supplement clarifies the workflow by making the train/validation/test separation explicit and by documenting threshold selection and business-cost evaluation in a transparent sequence.
+
+The supplement does not replace the original scripts; it clarifies and extends them to support reproducibility and auditability.
+
+### Execution order
+
+Run the full supplement with:
+
+```bash
+python src/reproducibility_supplement/run_reproducibility_supplement.py
+```
+
+### Generated outputs
+
+The supplement writes outputs to `outputs/reproducibility_supplement/`:
+
+- `split_summary.csv`
+- `validation_probabilities.csv`
+- `test_probabilities.csv`
+- `threshold_grid_validation.csv`
+- `selected_thresholds.csv`
+- `Evaluation_Results.csv`
+- `Business_Cost_Analysis.csv`
+- `Final_Summary.csv`
+- `DSS_Risk_Output.csv`
+- `risk_tier_summary.csv`

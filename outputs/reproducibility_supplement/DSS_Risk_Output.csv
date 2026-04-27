@@ -1,0 +1,1410 @@
+row_id,y_true,churn_probability,risk_tier,recommended_action
+0,0,0.1089637444067531,LOW,Monitor only
+1,0,0.8578545448258036,HIGH,Immediate retention intervention
+2,0,0.1521943566121432,LOW,Monitor only
+3,0,0.6400177786484759,HIGH,Immediate retention intervention
+4,0,0.0579870314445579,LOW,Monitor only
+5,0,0.8271758871450917,HIGH,Immediate retention intervention
+6,0,0.7138920377758039,HIGH,Immediate retention intervention
+7,0,0.2945841896672296,LOW,Monitor only
+8,0,0.0085267418777526,LOW,Monitor only
+9,1,0.6197080615862302,MEDIUM,Light engagement or monitoring
+10,0,0.5283447963078187,MEDIUM,Light engagement or monitoring
+11,0,0.1471445031552946,LOW,Monitor only
+12,0,0.2968994860860132,LOW,Monitor only
+13,1,0.8566202611904983,HIGH,Immediate retention intervention
+14,0,0.2997876699650101,LOW,Monitor only
+15,0,0.1290710133849177,LOW,Monitor only
+16,0,0.0745724338713368,LOW,Monitor only
+17,0,0.8222884408979807,HIGH,Immediate retention intervention
+18,0,0.3909536291243568,MEDIUM,Light engagement or monitoring
+19,0,0.2138907607737868,LOW,Monitor only
+20,1,0.863852527889065,HIGH,Immediate retention intervention
+21,0,0.521139755369613,MEDIUM,Light engagement or monitoring
+22,0,0.0475964627711571,LOW,Monitor only
+23,0,0.0941394662897069,LOW,Monitor only
+24,0,0.415301807707117,MEDIUM,Light engagement or monitoring
+25,0,0.439602200466676,MEDIUM,Light engagement or monitoring
+26,1,0.8008911433835277,HIGH,Immediate retention intervention
+27,1,0.8552608630189779,HIGH,Immediate retention intervention
+28,0,0.0413156586910169,LOW,Monitor only
+29,1,0.8976196991447853,HIGH,Immediate retention intervention
+30,0,0.7016992650942471,HIGH,Immediate retention intervention
+31,0,0.6744083582920897,HIGH,Immediate retention intervention
+32,0,0.0164817146944055,LOW,Monitor only
+33,0,0.0141208085606628,LOW,Monitor only
+34,1,0.8989362006130414,HIGH,Immediate retention intervention
+35,0,0.5121947341471651,MEDIUM,Light engagement or monitoring
+36,1,0.6260542724728239,MEDIUM,Light engagement or monitoring
+37,0,0.0058604667102772,LOW,Monitor only
+38,1,0.8831164937410944,HIGH,Immediate retention intervention
+39,1,0.3600217233794109,MEDIUM,Light engagement or monitoring
+40,0,0.0086056065238408,LOW,Monitor only
+41,0,0.8941717963898226,HIGH,Immediate retention intervention
+42,0,0.6003859341756054,MEDIUM,Light engagement or monitoring
+43,0,0.4540071728658439,MEDIUM,Light engagement or monitoring
+44,0,0.112986975255159,LOW,Monitor only
+45,1,0.7410944378809871,HIGH,Immediate retention intervention
+46,0,0.8567046255952456,HIGH,Immediate retention intervention
+47,0,0.6155764554666949,MEDIUM,Light engagement or monitoring
+48,0,0.0166790587346763,LOW,Monitor only
+49,1,0.6810916076023306,HIGH,Immediate retention intervention
+50,0,0.0125518270089815,LOW,Monitor only
+51,1,0.8598546412278151,HIGH,Immediate retention intervention
+52,0,0.3884365939579516,MEDIUM,Light engagement or monitoring
+53,0,0.4689789684438001,MEDIUM,Light engagement or monitoring
+54,0,0.4336378054545832,MEDIUM,Light engagement or monitoring
+55,1,0.8126437620337308,HIGH,Immediate retention intervention
+56,0,0.1394283839310088,LOW,Monitor only
+57,0,0.1448864709498147,LOW,Monitor only
+58,0,0.1815952853019654,LOW,Monitor only
+59,0,0.0088902052784505,LOW,Monitor only
+60,0,0.0195260830122298,LOW,Monitor only
+61,1,0.0756032303374743,LOW,Monitor only
+62,0,0.4003287370288254,MEDIUM,Light engagement or monitoring
+63,0,0.3867095839511651,MEDIUM,Light engagement or monitoring
+64,1,0.5391288150719302,MEDIUM,Light engagement or monitoring
+65,1,0.6119806573384304,MEDIUM,Light engagement or monitoring
+66,1,0.4248679582866664,MEDIUM,Light engagement or monitoring
+67,1,0.4931132640129044,MEDIUM,Light engagement or monitoring
+68,1,0.4210533949839941,MEDIUM,Light engagement or monitoring
+69,1,0.8119667364747137,HIGH,Immediate retention intervention
+70,0,0.007248659883363,LOW,Monitor only
+71,0,0.032180224384831,LOW,Monitor only
+72,1,0.8036803789967777,HIGH,Immediate retention intervention
+73,0,0.4096922545198792,MEDIUM,Light engagement or monitoring
+74,0,0.0780106489232321,LOW,Monitor only
+75,0,0.1320371731168547,LOW,Monitor only
+76,0,0.1397226062744253,LOW,Monitor only
+77,1,0.7466180941710443,HIGH,Immediate retention intervention
+78,0,0.4576438037084026,MEDIUM,Light engagement or monitoring
+79,0,0.0086430472903976,LOW,Monitor only
+80,0,0.1331087840556977,LOW,Monitor only
+81,0,0.0309145732634101,LOW,Monitor only
+82,1,0.4448369229666471,MEDIUM,Light engagement or monitoring
+83,1,0.9029737745188352,HIGH,Immediate retention intervention
+84,0,0.1662211812406016,LOW,Monitor only
+85,0,0.6421268741736154,HIGH,Immediate retention intervention
+86,0,0.8301893017818045,HIGH,Immediate retention intervention
+87,1,0.7526652379229668,HIGH,Immediate retention intervention
+88,1,0.7239013806730302,HIGH,Immediate retention intervention
+89,0,0.213074059674665,LOW,Monitor only
+90,1,0.8210656087921462,HIGH,Immediate retention intervention
+91,0,0.5990096733999738,MEDIUM,Light engagement or monitoring
+92,0,0.0320956162865172,LOW,Monitor only
+93,1,0.7913545957060721,HIGH,Immediate retention intervention
+94,1,0.5340078605058052,MEDIUM,Light engagement or monitoring
+95,0,0.0399825179898597,LOW,Monitor only
+96,0,0.6897053946362025,HIGH,Immediate retention intervention
+97,0,0.0116998060137815,LOW,Monitor only
+98,1,0.8378134968341837,HIGH,Immediate retention intervention
+99,0,0.3918184017637319,MEDIUM,Light engagement or monitoring
+100,1,0.8969732933739261,HIGH,Immediate retention intervention
+101,1,0.8114587301698799,HIGH,Immediate retention intervention
+102,0,0.748224086379367,HIGH,Immediate retention intervention
+103,1,0.6989846663815265,HIGH,Immediate retention intervention
+104,1,0.510889253467032,MEDIUM,Light engagement or monitoring
+105,0,0.0053399123447351,LOW,Monitor only
+106,0,0.2285317970085813,LOW,Monitor only
+107,0,0.117636127405403,LOW,Monitor only
+108,0,0.106762135757638,LOW,Monitor only
+109,0,0.1290396762603319,LOW,Monitor only
+110,0,0.0370237320496442,LOW,Monitor only
+111,0,0.834276994667331,HIGH,Immediate retention intervention
+112,0,0.390236127077136,MEDIUM,Light engagement or monitoring
+113,0,0.7590401289392671,HIGH,Immediate retention intervention
+114,1,0.8205439742704611,HIGH,Immediate retention intervention
+115,0,0.1008519411710035,LOW,Monitor only
+116,1,0.7098316972041185,HIGH,Immediate retention intervention
+117,0,0.7192015893458533,HIGH,Immediate retention intervention
+118,0,0.0859910711081268,LOW,Monitor only
+119,0,0.0124769364608271,LOW,Monitor only
+120,0,0.1013309065610411,LOW,Monitor only
+121,1,0.7983976474609865,HIGH,Immediate retention intervention
+122,0,0.0434519446317657,LOW,Monitor only
+123,0,0.114447705935717,LOW,Monitor only
+124,1,0.8490771158136086,HIGH,Immediate retention intervention
+125,0,0.0397270864876665,LOW,Monitor only
+126,1,0.6457390240576776,HIGH,Immediate retention intervention
+127,0,0.465362976184294,MEDIUM,Light engagement or monitoring
+128,1,0.8397823991900601,HIGH,Immediate retention intervention
+129,0,0.3144867122728513,LOW,Monitor only
+130,1,0.4070729178547289,MEDIUM,Light engagement or monitoring
+131,1,0.6437135665175722,HIGH,Immediate retention intervention
+132,0,0.2193670230888892,LOW,Monitor only
+133,0,0.3997555097723599,MEDIUM,Light engagement or monitoring
+134,0,0.0827399552961475,LOW,Monitor only
+135,0,0.3999340217882938,MEDIUM,Light engagement or monitoring
+136,0,0.0945771364834723,LOW,Monitor only
+137,0,0.2612786575587894,LOW,Monitor only
+138,0,0.0233719461394133,LOW,Monitor only
+139,1,0.5390298372628983,MEDIUM,Light engagement or monitoring
+140,0,0.112331409610325,LOW,Monitor only
+141,0,0.2020728593549363,LOW,Monitor only
+142,0,0.7674324006897083,HIGH,Immediate retention intervention
+143,0,0.0419291977521581,LOW,Monitor only
+144,0,0.0898115391896731,LOW,Monitor only
+145,0,0.1355586771344111,LOW,Monitor only
+146,0,0.119181051743017,LOW,Monitor only
+147,1,0.5819131019509971,MEDIUM,Light engagement or monitoring
+148,0,0.6857524425401492,HIGH,Immediate retention intervention
+149,0,0.6269761524896121,MEDIUM,Light engagement or monitoring
+150,0,0.0385593357189007,LOW,Monitor only
+151,0,0.7449752079924191,HIGH,Immediate retention intervention
+152,0,0.2831376509132896,LOW,Monitor only
+153,0,0.5855109687256159,MEDIUM,Light engagement or monitoring
+154,1,0.8871715307685197,HIGH,Immediate retention intervention
+155,0,0.6030681122911238,MEDIUM,Light engagement or monitoring
+156,0,0.7941113521295018,HIGH,Immediate retention intervention
+157,1,0.698791067733445,HIGH,Immediate retention intervention
+158,1,0.6573775904981706,HIGH,Immediate retention intervention
+159,1,0.7500453527269794,HIGH,Immediate retention intervention
+160,0,0.1135023676857759,LOW,Monitor only
+161,0,0.2766916010156475,LOW,Monitor only
+162,0,0.0052444282711166,LOW,Monitor only
+163,0,0.0207048722162994,LOW,Monitor only
+164,0,0.2325795911533507,LOW,Monitor only
+165,1,0.3956568120556406,MEDIUM,Light engagement or monitoring
+166,0,0.1168879376702746,LOW,Monitor only
+167,1,0.3464749032823981,MEDIUM,Light engagement or monitoring
+168,0,0.2742843327660918,LOW,Monitor only
+169,0,0.0286245893552666,LOW,Monitor only
+170,0,0.7019063252698344,HIGH,Immediate retention intervention
+171,1,0.8804769446054452,HIGH,Immediate retention intervention
+172,0,0.2977932568455257,LOW,Monitor only
+173,1,0.4113486992304131,MEDIUM,Light engagement or monitoring
+174,0,0.6484436071855585,HIGH,Immediate retention intervention
+175,0,0.7620403044569998,HIGH,Immediate retention intervention
+176,0,0.0148971585942661,LOW,Monitor only
+177,0,0.0132308059112727,LOW,Monitor only
+178,0,0.675749160367301,HIGH,Immediate retention intervention
+179,0,0.3455484981984885,MEDIUM,Light engagement or monitoring
+180,1,0.7977007590088081,HIGH,Immediate retention intervention
+181,0,0.1234997507613326,LOW,Monitor only
+182,1,0.8659231081779244,HIGH,Immediate retention intervention
+183,1,0.4844678205892551,MEDIUM,Light engagement or monitoring
+184,0,0.0050525859907304,LOW,Monitor only
+185,0,0.5364225194470217,MEDIUM,Light engagement or monitoring
+186,0,0.1125475954741281,LOW,Monitor only
+187,1,0.6213672084237594,MEDIUM,Light engagement or monitoring
+188,0,0.269550728072811,LOW,Monitor only
+189,0,0.0639953919100637,LOW,Monitor only
+190,0,0.370224719691727,MEDIUM,Light engagement or monitoring
+191,0,0.6466236432336578,HIGH,Immediate retention intervention
+192,1,0.8213209333517976,HIGH,Immediate retention intervention
+193,0,0.0517885219962258,LOW,Monitor only
+194,0,0.7500932311464361,HIGH,Immediate retention intervention
+195,0,0.677843203117237,HIGH,Immediate retention intervention
+196,0,0.4634869665386014,MEDIUM,Light engagement or monitoring
+197,0,0.6768575756607284,HIGH,Immediate retention intervention
+198,0,0.6910925231567872,HIGH,Immediate retention intervention
+199,0,0.6966024277155894,HIGH,Immediate retention intervention
+200,0,0.3821205093594523,MEDIUM,Light engagement or monitoring
+201,0,0.0403338849258471,LOW,Monitor only
+202,0,0.1484689709572451,LOW,Monitor only
+203,0,0.155580045127864,LOW,Monitor only
+204,0,0.4021772363273279,MEDIUM,Light engagement or monitoring
+205,0,0.2302606543959192,LOW,Monitor only
+206,0,0.1628103692998421,LOW,Monitor only
+207,0,0.4211190054276008,MEDIUM,Light engagement or monitoring
+208,0,0.4131507456965863,MEDIUM,Light engagement or monitoring
+209,0,0.0108237655448899,LOW,Monitor only
+210,1,0.363134522063371,MEDIUM,Light engagement or monitoring
+211,0,0.6060042967259475,MEDIUM,Light engagement or monitoring
+212,1,0.6359976815253819,HIGH,Immediate retention intervention
+213,0,0.0783722457217811,LOW,Monitor only
+214,0,0.0352126272591029,LOW,Monitor only
+215,0,0.6653475070299137,HIGH,Immediate retention intervention
+216,0,0.0119739488310857,LOW,Monitor only
+217,0,0.7485916774990746,HIGH,Immediate retention intervention
+218,1,0.733570704800321,HIGH,Immediate retention intervention
+219,1,0.2305850909655731,LOW,Monitor only
+220,0,0.2257239360956709,LOW,Monitor only
+221,0,0.3272937163677255,MEDIUM,Light engagement or monitoring
+222,0,0.7410951739137016,HIGH,Immediate retention intervention
+223,0,0.1896423532074342,LOW,Monitor only
+224,0,0.8778764604959163,HIGH,Immediate retention intervention
+225,0,0.2535151917064468,LOW,Monitor only
+226,0,0.0073051718556935,LOW,Monitor only
+227,0,0.3755501499034476,MEDIUM,Light engagement or monitoring
+228,1,0.8714419434256753,HIGH,Immediate retention intervention
+229,0,0.9005968075132031,HIGH,Immediate retention intervention
+230,0,0.1809548539567438,LOW,Monitor only
+231,1,0.8096870043353086,HIGH,Immediate retention intervention
+232,0,0.7467203203425392,HIGH,Immediate retention intervention
+233,0,0.0647363231475739,LOW,Monitor only
+234,1,0.8557390753523227,HIGH,Immediate retention intervention
+235,1,0.8705967879855225,HIGH,Immediate retention intervention
+236,1,0.6136566499865004,MEDIUM,Light engagement or monitoring
+237,0,0.6492448229592573,HIGH,Immediate retention intervention
+238,0,0.2296926683500237,LOW,Monitor only
+239,0,0.7937378578387845,HIGH,Immediate retention intervention
+240,1,0.8195782813623541,HIGH,Immediate retention intervention
+241,1,0.7758289461158298,HIGH,Immediate retention intervention
+242,0,0.1694365544702596,LOW,Monitor only
+243,0,0.2226045010765071,LOW,Monitor only
+244,1,0.6447067583954665,HIGH,Immediate retention intervention
+245,1,0.7825176835321084,HIGH,Immediate retention intervention
+246,1,0.7657918367499805,HIGH,Immediate retention intervention
+247,0,0.1083683735390571,LOW,Monitor only
+248,0,0.0875727043744182,LOW,Monitor only
+249,0,0.6245914034681541,MEDIUM,Light engagement or monitoring
+250,0,0.0945065624444045,LOW,Monitor only
+251,0,0.3229134823178056,MEDIUM,Light engagement or monitoring
+252,0,0.2616118682326434,LOW,Monitor only
+253,0,0.0677850280577434,LOW,Monitor only
+254,1,0.4963209459175697,MEDIUM,Light engagement or monitoring
+255,0,0.0622207758813815,LOW,Monitor only
+256,0,0.221755012559408,LOW,Monitor only
+257,0,0.5915924792260261,MEDIUM,Light engagement or monitoring
+258,0,0.5036357143455851,MEDIUM,Light engagement or monitoring
+259,0,0.6376035937644856,HIGH,Immediate retention intervention
+260,0,0.6870936105225378,HIGH,Immediate retention intervention
+261,0,0.1715939795403943,LOW,Monitor only
+262,0,0.0096095718836866,LOW,Monitor only
+263,0,0.2968948130425107,LOW,Monitor only
+264,1,0.7508281071824077,HIGH,Immediate retention intervention
+265,1,0.4379685192175238,MEDIUM,Light engagement or monitoring
+266,1,0.7910277126912577,HIGH,Immediate retention intervention
+267,0,0.0350605158509044,LOW,Monitor only
+268,0,0.7131628514008039,HIGH,Immediate retention intervention
+269,0,0.706300186120514,HIGH,Immediate retention intervention
+270,0,0.7438133093783423,HIGH,Immediate retention intervention
+271,0,0.0117121902611598,LOW,Monitor only
+272,0,0.574395316390482,MEDIUM,Light engagement or monitoring
+273,0,0.5416765533371084,MEDIUM,Light engagement or monitoring
+274,0,0.1392242680384948,LOW,Monitor only
+275,0,0.8088264416519799,HIGH,Immediate retention intervention
+276,1,0.8285087622274415,HIGH,Immediate retention intervention
+277,0,0.8264746145523463,HIGH,Immediate retention intervention
+278,1,0.9048173875829704,HIGH,Immediate retention intervention
+279,0,0.2960376115429904,LOW,Monitor only
+280,0,0.7618384665987965,HIGH,Immediate retention intervention
+281,0,0.3007467999303287,LOW,Monitor only
+282,0,0.6390097413122799,HIGH,Immediate retention intervention
+283,0,0.1647784449029835,LOW,Monitor only
+284,0,0.7324746419224154,HIGH,Immediate retention intervention
+285,1,0.8830519778044955,HIGH,Immediate retention intervention
+286,1,0.5117587584699893,MEDIUM,Light engagement or monitoring
+287,0,0.1598353183600592,LOW,Monitor only
+288,1,0.8095484260625893,HIGH,Immediate retention intervention
+289,0,0.0739457936670283,LOW,Monitor only
+290,0,0.4092090920813634,MEDIUM,Light engagement or monitoring
+291,0,0.3062121883319788,LOW,Monitor only
+292,0,0.104044930260625,LOW,Monitor only
+293,0,0.198576920062845,LOW,Monitor only
+294,0,0.2154674068923283,LOW,Monitor only
+295,0,0.5226824799363874,MEDIUM,Light engagement or monitoring
+296,0,0.6576688784719215,HIGH,Immediate retention intervention
+297,1,0.2565752657778278,LOW,Monitor only
+298,0,0.0601914228309135,LOW,Monitor only
+299,0,0.2142348006552472,LOW,Monitor only
+300,0,0.009451647244124,LOW,Monitor only
+301,1,0.6495094663236728,HIGH,Immediate retention intervention
+302,0,0.7932745124131269,HIGH,Immediate retention intervention
+303,0,0.0478945478693378,LOW,Monitor only
+304,1,0.88492687343301,HIGH,Immediate retention intervention
+305,0,0.4635022078924372,MEDIUM,Light engagement or monitoring
+306,0,0.0880857316460459,LOW,Monitor only
+307,0,0.2997913494485755,LOW,Monitor only
+308,0,0.4128924785933472,MEDIUM,Light engagement or monitoring
+309,0,0.4077768832793304,MEDIUM,Light engagement or monitoring
+310,0,0.8056045027988741,HIGH,Immediate retention intervention
+311,0,0.7837108816797161,HIGH,Immediate retention intervention
+312,0,0.1015156896770546,LOW,Monitor only
+313,0,0.075099658091622,LOW,Monitor only
+314,0,0.1845877544915418,LOW,Monitor only
+315,0,0.0533401846010351,LOW,Monitor only
+316,0,0.1947697563256382,LOW,Monitor only
+317,0,0.2869449263247677,LOW,Monitor only
+318,1,0.4758177101232668,MEDIUM,Light engagement or monitoring
+319,1,0.7704961937049766,HIGH,Immediate retention intervention
+320,0,0.738669733803813,HIGH,Immediate retention intervention
+321,0,0.8100432568671792,HIGH,Immediate retention intervention
+322,1,0.5177428291727274,MEDIUM,Light engagement or monitoring
+323,0,0.301040769848604,LOW,Monitor only
+324,0,0.5607769096968036,MEDIUM,Light engagement or monitoring
+325,0,0.1136166909264134,LOW,Monitor only
+326,1,0.1136190890964775,LOW,Monitor only
+327,0,0.7950663412194396,HIGH,Immediate retention intervention
+328,0,0.2093387596373551,LOW,Monitor only
+329,0,0.0258270552249658,LOW,Monitor only
+330,0,0.4068594921373797,MEDIUM,Light engagement or monitoring
+331,1,0.4080298754052212,MEDIUM,Light engagement or monitoring
+332,0,0.1092171181272584,LOW,Monitor only
+333,0,0.1131957379440345,LOW,Monitor only
+334,0,0.0332351363092398,LOW,Monitor only
+335,0,0.0305768720223852,LOW,Monitor only
+336,1,0.7574027512961364,HIGH,Immediate retention intervention
+337,0,0.1688200944211059,LOW,Monitor only
+338,0,0.0156123056954009,LOW,Monitor only
+339,0,0.0681559105129784,LOW,Monitor only
+340,0,0.0316263206045718,LOW,Monitor only
+341,1,0.8514414661073639,HIGH,Immediate retention intervention
+342,0,0.3010004152817804,LOW,Monitor only
+343,1,0.5469192276719332,MEDIUM,Light engagement or monitoring
+344,1,0.8836683728229939,HIGH,Immediate retention intervention
+345,1,0.149761163318549,LOW,Monitor only
+346,0,0.022624726877197,LOW,Monitor only
+347,1,0.7567929714226952,HIGH,Immediate retention intervention
+348,0,0.411167712440695,MEDIUM,Light engagement or monitoring
+349,1,0.8606820169834473,HIGH,Immediate retention intervention
+350,0,0.3341882748174403,MEDIUM,Light engagement or monitoring
+351,1,0.227337351715282,LOW,Monitor only
+352,0,0.5048512606711792,MEDIUM,Light engagement or monitoring
+353,0,0.5084819569901874,MEDIUM,Light engagement or monitoring
+354,0,0.0072733437347182,LOW,Monitor only
+355,0,0.5105493930893584,MEDIUM,Light engagement or monitoring
+356,0,0.1757019761013458,LOW,Monitor only
+357,0,0.7768001415476694,HIGH,Immediate retention intervention
+358,0,0.1183325743572867,LOW,Monitor only
+359,1,0.8720048593769841,HIGH,Immediate retention intervention
+360,1,0.8467896873913162,HIGH,Immediate retention intervention
+361,0,0.0838454061735054,LOW,Monitor only
+362,0,0.2208966944322757,LOW,Monitor only
+363,0,0.4900553362728653,MEDIUM,Light engagement or monitoring
+364,0,0.2438644293804533,LOW,Monitor only
+365,1,0.2061093242711377,LOW,Monitor only
+366,0,0.4580735857302808,MEDIUM,Light engagement or monitoring
+367,0,0.1405890706369995,LOW,Monitor only
+368,0,0.0797827404947541,LOW,Monitor only
+369,0,0.810200073537938,HIGH,Immediate retention intervention
+370,1,0.754036504356476,HIGH,Immediate retention intervention
+371,0,0.8351761023252721,HIGH,Immediate retention intervention
+372,0,0.5373605438662429,MEDIUM,Light engagement or monitoring
+373,0,0.4943179251132576,MEDIUM,Light engagement or monitoring
+374,1,0.5347522776192455,MEDIUM,Light engagement or monitoring
+375,0,0.290726858141056,LOW,Monitor only
+376,0,0.2010164503990474,LOW,Monitor only
+377,0,0.6500725307910055,HIGH,Immediate retention intervention
+378,1,0.2155046525578978,LOW,Monitor only
+379,0,0.1601313685937369,LOW,Monitor only
+380,0,0.2263960500453175,LOW,Monitor only
+381,0,0.3516426962949114,MEDIUM,Light engagement or monitoring
+382,0,0.051558450757053,LOW,Monitor only
+383,0,0.8096118512147992,HIGH,Immediate retention intervention
+384,1,0.5843656461444602,MEDIUM,Light engagement or monitoring
+385,0,0.579004526359405,MEDIUM,Light engagement or monitoring
+386,1,0.5422005283825362,MEDIUM,Light engagement or monitoring
+387,1,0.8479831624634124,HIGH,Immediate retention intervention
+388,0,0.0370565418096801,LOW,Monitor only
+389,1,0.7436038722774593,HIGH,Immediate retention intervention
+390,0,0.0648859034876804,LOW,Monitor only
+391,0,0.1390000513590357,LOW,Monitor only
+392,0,0.6863807499457607,HIGH,Immediate retention intervention
+393,0,0.0753948316890716,LOW,Monitor only
+394,0,0.5661781436675113,MEDIUM,Light engagement or monitoring
+395,0,0.2395810587629703,LOW,Monitor only
+396,0,0.0703904270271073,LOW,Monitor only
+397,0,0.0893264901706691,LOW,Monitor only
+398,0,0.0247068213883705,LOW,Monitor only
+399,1,0.6555827570344389,HIGH,Immediate retention intervention
+400,0,0.1070061938197636,LOW,Monitor only
+401,0,0.4752861461271737,MEDIUM,Light engagement or monitoring
+402,0,0.4395186021533799,MEDIUM,Light engagement or monitoring
+403,0,0.4475928416092133,MEDIUM,Light engagement or monitoring
+404,0,0.0096184426978488,LOW,Monitor only
+405,0,0.5285085062482928,MEDIUM,Light engagement or monitoring
+406,1,0.1915429762178116,LOW,Monitor only
+407,0,0.7047250526496561,HIGH,Immediate retention intervention
+408,1,0.8563354184838935,HIGH,Immediate retention intervention
+409,0,0.0927556241966355,LOW,Monitor only
+410,1,0.4589922921951802,MEDIUM,Light engagement or monitoring
+411,1,0.843735094455503,HIGH,Immediate retention intervention
+412,1,0.8052692332737249,HIGH,Immediate retention intervention
+413,1,0.7528188461797741,HIGH,Immediate retention intervention
+414,0,0.3830730680488527,MEDIUM,Light engagement or monitoring
+415,0,0.5527272109391049,MEDIUM,Light engagement or monitoring
+416,0,0.408567875930981,MEDIUM,Light engagement or monitoring
+417,1,0.891004015106505,HIGH,Immediate retention intervention
+418,1,0.2275359560150922,LOW,Monitor only
+419,1,0.7637652150264477,HIGH,Immediate retention intervention
+420,0,0.1621605134958702,LOW,Monitor only
+421,0,0.3953322792769498,MEDIUM,Light engagement or monitoring
+422,0,0.7737626669086463,HIGH,Immediate retention intervention
+423,1,0.7230198062714476,HIGH,Immediate retention intervention
+424,0,0.0181225941802252,LOW,Monitor only
+425,0,0.4053665006404679,MEDIUM,Light engagement or monitoring
+426,0,0.7019253374658498,HIGH,Immediate retention intervention
+427,0,0.8019211725941003,HIGH,Immediate retention intervention
+428,0,0.0078865773225455,LOW,Monitor only
+429,0,0.0079628832151953,LOW,Monitor only
+430,0,0.0760484517121391,LOW,Monitor only
+431,0,0.3824535181265261,MEDIUM,Light engagement or monitoring
+432,0,0.3307156976635884,MEDIUM,Light engagement or monitoring
+433,0,0.2638863045354216,LOW,Monitor only
+434,0,0.2326804705170723,LOW,Monitor only
+435,1,0.8474083072760276,HIGH,Immediate retention intervention
+436,0,0.0298080016635572,LOW,Monitor only
+437,0,0.0609429897215401,LOW,Monitor only
+438,0,0.25408814374209,LOW,Monitor only
+439,0,0.4914286240063444,MEDIUM,Light engagement or monitoring
+440,0,0.3291385124086333,MEDIUM,Light engagement or monitoring
+441,1,0.7538895322168774,HIGH,Immediate retention intervention
+442,0,0.238368285299705,LOW,Monitor only
+443,0,0.427220772575964,MEDIUM,Light engagement or monitoring
+444,1,0.4506929773334853,MEDIUM,Light engagement or monitoring
+445,0,0.5369897030710509,MEDIUM,Light engagement or monitoring
+446,0,0.0183156966612154,LOW,Monitor only
+447,0,0.0532677316247644,LOW,Monitor only
+448,0,0.7677413280690751,HIGH,Immediate retention intervention
+449,0,0.8151341336599114,HIGH,Immediate retention intervention
+450,0,0.7470786818115722,HIGH,Immediate retention intervention
+451,0,0.1929854813699763,LOW,Monitor only
+452,0,0.3573226951617298,MEDIUM,Light engagement or monitoring
+453,0,0.4591855872755508,MEDIUM,Light engagement or monitoring
+454,0,0.8906613227598891,HIGH,Immediate retention intervention
+455,0,0.0065186877138279,LOW,Monitor only
+456,1,0.5475130286029197,MEDIUM,Light engagement or monitoring
+457,0,0.0157276524153503,LOW,Monitor only
+458,0,0.0230962464144143,LOW,Monitor only
+459,1,0.6153709028369614,MEDIUM,Light engagement or monitoring
+460,0,0.0530985731481168,LOW,Monitor only
+461,1,0.3445150363722094,MEDIUM,Light engagement or monitoring
+462,0,0.4789852029433916,MEDIUM,Light engagement or monitoring
+463,0,0.0923271929295626,LOW,Monitor only
+464,0,0.0200767973897697,LOW,Monitor only
+465,0,0.1705485635309805,LOW,Monitor only
+466,0,0.0874744182573044,LOW,Monitor only
+467,0,0.697296549636367,HIGH,Immediate retention intervention
+468,0,0.3509128648969811,MEDIUM,Light engagement or monitoring
+469,0,0.1240560406105849,LOW,Monitor only
+470,1,0.4088750611893778,MEDIUM,Light engagement or monitoring
+471,0,0.2623008243456644,LOW,Monitor only
+472,0,0.350048132748027,MEDIUM,Light engagement or monitoring
+473,0,0.09375141924541,LOW,Monitor only
+474,0,0.1838299935145066,LOW,Monitor only
+475,0,0.0074831854018326,LOW,Monitor only
+476,0,0.4659049813827897,MEDIUM,Light engagement or monitoring
+477,0,0.622137380147554,MEDIUM,Light engagement or monitoring
+478,1,0.7121841555034134,HIGH,Immediate retention intervention
+479,1,0.7929124617473059,HIGH,Immediate retention intervention
+480,0,0.7803615063386207,HIGH,Immediate retention intervention
+481,0,0.77877664833861,HIGH,Immediate retention intervention
+482,0,0.0076877454249996,LOW,Monitor only
+483,1,0.566896039475483,MEDIUM,Light engagement or monitoring
+484,0,0.861671739720585,HIGH,Immediate retention intervention
+485,0,0.0587938532917464,LOW,Monitor only
+486,0,0.0228548998879077,LOW,Monitor only
+487,0,0.1272407174624058,LOW,Monitor only
+488,1,0.8730596096541314,HIGH,Immediate retention intervention
+489,0,0.5387975067391761,MEDIUM,Light engagement or monitoring
+490,0,0.7285181576031048,HIGH,Immediate retention intervention
+491,0,0.841077820393524,HIGH,Immediate retention intervention
+492,0,0.3264843581978707,MEDIUM,Light engagement or monitoring
+493,0,0.7065561249254857,HIGH,Immediate retention intervention
+494,0,0.0142198905226199,LOW,Monitor only
+495,0,0.7662716899527399,HIGH,Immediate retention intervention
+496,0,0.4449917467149458,MEDIUM,Light engagement or monitoring
+497,1,0.614925350921155,MEDIUM,Light engagement or monitoring
+498,0,0.0522392818330838,LOW,Monitor only
+499,0,0.7999252215532403,HIGH,Immediate retention intervention
+500,0,0.0228173468483951,LOW,Monitor only
+501,0,0.5496922551065134,MEDIUM,Light engagement or monitoring
+502,0,0.7612256650002905,HIGH,Immediate retention intervention
+503,0,0.0073175129718655,LOW,Monitor only
+504,0,0.1437453763005039,LOW,Monitor only
+505,0,0.0497023714603277,LOW,Monitor only
+506,0,0.4972614479381191,MEDIUM,Light engagement or monitoring
+507,0,0.0110198220487773,LOW,Monitor only
+508,1,0.6012391800104803,MEDIUM,Light engagement or monitoring
+509,0,0.016900429695308,LOW,Monitor only
+510,1,0.9102754429021408,HIGH,Immediate retention intervention
+511,1,0.2377595359585677,LOW,Monitor only
+512,0,0.2626460607295624,LOW,Monitor only
+513,0,0.1303768379779773,LOW,Monitor only
+514,1,0.6913157177761139,HIGH,Immediate retention intervention
+515,0,0.2221397158301377,LOW,Monitor only
+516,0,0.1108816777116206,LOW,Monitor only
+517,0,0.4992580475574842,MEDIUM,Light engagement or monitoring
+518,0,0.6604693747279929,HIGH,Immediate retention intervention
+519,0,0.3279498740153205,MEDIUM,Light engagement or monitoring
+520,0,0.1290755758342116,LOW,Monitor only
+521,0,0.5633313069713506,MEDIUM,Light engagement or monitoring
+522,0,0.3648801574914248,MEDIUM,Light engagement or monitoring
+523,1,0.7292759599395959,HIGH,Immediate retention intervention
+524,1,0.3113584452326602,LOW,Monitor only
+525,1,0.689993862427185,HIGH,Immediate retention intervention
+526,0,0.2975918406050739,LOW,Monitor only
+527,0,0.4209766237397421,MEDIUM,Light engagement or monitoring
+528,0,0.5511734186783195,MEDIUM,Light engagement or monitoring
+529,0,0.0131477512552375,LOW,Monitor only
+530,0,0.7521253430056176,HIGH,Immediate retention intervention
+531,0,0.2013433770013796,LOW,Monitor only
+532,0,0.5373903163042835,MEDIUM,Light engagement or monitoring
+533,1,0.8495752562168082,HIGH,Immediate retention intervention
+534,1,0.1947443275062633,LOW,Monitor only
+535,0,0.3553529731990482,MEDIUM,Light engagement or monitoring
+536,0,0.5870136440292495,MEDIUM,Light engagement or monitoring
+537,0,0.0110835110043099,LOW,Monitor only
+538,1,0.8306057022557924,HIGH,Immediate retention intervention
+539,1,0.5147064701765587,MEDIUM,Light engagement or monitoring
+540,1,0.4413266291459748,MEDIUM,Light engagement or monitoring
+541,0,0.2200226108530903,LOW,Monitor only
+542,1,0.8147722792917895,HIGH,Immediate retention intervention
+543,0,0.1716918911402262,LOW,Monitor only
+544,1,0.7855158625647257,HIGH,Immediate retention intervention
+545,0,0.3758317777408557,MEDIUM,Light engagement or monitoring
+546,0,0.0727449524078656,LOW,Monitor only
+547,0,0.0942026705278897,LOW,Monitor only
+548,0,0.7558440852167122,HIGH,Immediate retention intervention
+549,0,0.0121712347709365,LOW,Monitor only
+550,1,0.3914981658418049,MEDIUM,Light engagement or monitoring
+551,0,0.1015397049254667,LOW,Monitor only
+552,0,0.6832595452894408,HIGH,Immediate retention intervention
+553,0,0.262205020504932,LOW,Monitor only
+554,0,0.0153110172579669,LOW,Monitor only
+555,0,0.8457415921936122,HIGH,Immediate retention intervention
+556,1,0.7621113166738163,HIGH,Immediate retention intervention
+557,1,0.7775425970162767,HIGH,Immediate retention intervention
+558,0,0.3082373923125782,LOW,Monitor only
+559,0,0.7113571266428345,HIGH,Immediate retention intervention
+560,0,0.2490420718351521,LOW,Monitor only
+561,1,0.4947978804062149,MEDIUM,Light engagement or monitoring
+562,1,0.5498839229757729,MEDIUM,Light engagement or monitoring
+563,0,0.110546750713149,LOW,Monitor only
+564,0,0.0876067251614481,LOW,Monitor only
+565,0,0.7929375880455284,HIGH,Immediate retention intervention
+566,1,0.8037146537646194,HIGH,Immediate retention intervention
+567,1,0.8451568138321844,HIGH,Immediate retention intervention
+568,1,0.9030928641422306,HIGH,Immediate retention intervention
+569,1,0.6946045170271556,HIGH,Immediate retention intervention
+570,0,0.0227663799349018,LOW,Monitor only
+571,0,0.510006231450643,MEDIUM,Light engagement or monitoring
+572,1,0.8188390369748001,HIGH,Immediate retention intervention
+573,1,0.6983507188697793,HIGH,Immediate retention intervention
+574,0,0.0325978406890154,LOW,Monitor only
+575,1,0.4732133378620275,MEDIUM,Light engagement or monitoring
+576,0,0.5988409753941069,MEDIUM,Light engagement or monitoring
+577,0,0.4567856601869184,MEDIUM,Light engagement or monitoring
+578,0,0.0235181497769004,LOW,Monitor only
+579,0,0.0957173563297458,LOW,Monitor only
+580,0,0.0149243800037239,LOW,Monitor only
+581,0,0.8320589800611602,HIGH,Immediate retention intervention
+582,0,0.0082236474288776,LOW,Monitor only
+583,0,0.0068322279469965,LOW,Monitor only
+584,0,0.0976167884364608,LOW,Monitor only
+585,0,0.0550280835567197,LOW,Monitor only
+586,1,0.8727104415369651,HIGH,Immediate retention intervention
+587,0,0.32847465468656,MEDIUM,Light engagement or monitoring
+588,0,0.159136231752395,LOW,Monitor only
+589,1,0.8079195622319059,HIGH,Immediate retention intervention
+590,0,0.5612853973829899,MEDIUM,Light engagement or monitoring
+591,0,0.6297026079176326,MEDIUM,Light engagement or monitoring
+592,0,0.4521745991357913,MEDIUM,Light engagement or monitoring
+593,1,0.8496448558549565,HIGH,Immediate retention intervention
+594,1,0.810386695841675,HIGH,Immediate retention intervention
+595,0,0.1610530393360391,LOW,Monitor only
+596,0,0.0401243258063804,LOW,Monitor only
+597,0,0.0231244383048634,LOW,Monitor only
+598,1,0.6385955008431446,HIGH,Immediate retention intervention
+599,0,0.1506153350704148,LOW,Monitor only
+600,0,0.3577440735540614,MEDIUM,Light engagement or monitoring
+601,1,0.825914593458902,HIGH,Immediate retention intervention
+602,0,0.0139978900430615,LOW,Monitor only
+603,1,0.8321733048079711,HIGH,Immediate retention intervention
+604,0,0.8707944680410212,HIGH,Immediate retention intervention
+605,0,0.1105348225883917,LOW,Monitor only
+606,1,0.1865508061833094,LOW,Monitor only
+607,1,0.5981678567196047,MEDIUM,Light engagement or monitoring
+608,0,0.4214754615403626,MEDIUM,Light engagement or monitoring
+609,0,0.084961571144462,LOW,Monitor only
+610,0,0.0083400735947051,LOW,Monitor only
+611,0,0.3955121621792249,MEDIUM,Light engagement or monitoring
+612,0,0.1924979081714367,LOW,Monitor only
+613,1,0.5356954588432181,MEDIUM,Light engagement or monitoring
+614,0,0.3703258958005433,MEDIUM,Light engagement or monitoring
+615,0,0.4753237595711883,MEDIUM,Light engagement or monitoring
+616,0,0.0337952848337745,LOW,Monitor only
+617,0,0.0557454520284317,LOW,Monitor only
+618,1,0.8939012264101924,HIGH,Immediate retention intervention
+619,1,0.4098506171982464,MEDIUM,Light engagement or monitoring
+620,0,0.1436890799013495,LOW,Monitor only
+621,1,0.8853275050049788,HIGH,Immediate retention intervention
+622,1,0.7716077738672624,HIGH,Immediate retention intervention
+623,0,0.0093805415874335,LOW,Monitor only
+624,0,0.0211964982001219,LOW,Monitor only
+625,1,0.3891974303828859,MEDIUM,Light engagement or monitoring
+626,0,0.0232394309781115,LOW,Monitor only
+627,1,0.9181908411430024,HIGH,Immediate retention intervention
+628,1,0.7978154599295121,HIGH,Immediate retention intervention
+629,0,0.8506567657344776,HIGH,Immediate retention intervention
+630,1,0.899370531888523,HIGH,Immediate retention intervention
+631,0,0.0874585157415601,LOW,Monitor only
+632,1,0.7517865681119956,HIGH,Immediate retention intervention
+633,0,0.0680654820357361,LOW,Monitor only
+634,0,0.8078351410932442,HIGH,Immediate retention intervention
+635,0,0.2266219882254115,LOW,Monitor only
+636,0,0.1814244750645053,LOW,Monitor only
+637,0,0.1030770422891161,LOW,Monitor only
+638,1,0.2901590107184783,LOW,Monitor only
+639,0,0.4000130800188523,MEDIUM,Light engagement or monitoring
+640,0,0.0102935259984723,LOW,Monitor only
+641,0,0.8257797762609147,HIGH,Immediate retention intervention
+642,0,0.1373252527687871,LOW,Monitor only
+643,0,0.2237118478361199,LOW,Monitor only
+644,0,0.0160670202243984,LOW,Monitor only
+645,0,0.64704786388268,HIGH,Immediate retention intervention
+646,0,0.5283357040389729,MEDIUM,Light engagement or monitoring
+647,1,0.9128023798537492,HIGH,Immediate retention intervention
+648,1,0.8013702080537517,HIGH,Immediate retention intervention
+649,1,0.4169897688368693,MEDIUM,Light engagement or monitoring
+650,1,0.7096121451843984,HIGH,Immediate retention intervention
+651,0,0.5857148076121463,MEDIUM,Light engagement or monitoring
+652,1,0.2507567105261481,LOW,Monitor only
+653,1,0.8456555121419311,HIGH,Immediate retention intervention
+654,1,0.8991200301311126,HIGH,Immediate retention intervention
+655,0,0.0056315271167147,LOW,Monitor only
+656,0,0.2287226851401423,LOW,Monitor only
+657,0,0.4018502561604859,MEDIUM,Light engagement or monitoring
+658,0,0.7621939236758754,HIGH,Immediate retention intervention
+659,0,0.0138313146542612,LOW,Monitor only
+660,0,0.1963969112074608,LOW,Monitor only
+661,0,0.1803669243501609,LOW,Monitor only
+662,0,0.0280915105131466,LOW,Monitor only
+663,0,0.8574695555287146,HIGH,Immediate retention intervention
+664,0,0.0053751430710078,LOW,Monitor only
+665,0,0.2599438345450173,LOW,Monitor only
+666,0,0.5939441469157989,MEDIUM,Light engagement or monitoring
+667,0,0.1112976741874166,LOW,Monitor only
+668,0,0.4664189520136027,MEDIUM,Light engagement or monitoring
+669,0,0.2831535419175829,LOW,Monitor only
+670,0,0.6288134758424889,MEDIUM,Light engagement or monitoring
+671,0,0.4183825438459815,MEDIUM,Light engagement or monitoring
+672,0,0.305690898539634,LOW,Monitor only
+673,0,0.1727359856058326,LOW,Monitor only
+674,1,0.8409193425791848,HIGH,Immediate retention intervention
+675,0,0.0689392845624125,LOW,Monitor only
+676,0,0.0441928551754112,LOW,Monitor only
+677,1,0.3430495502465479,MEDIUM,Light engagement or monitoring
+678,1,0.6295740803475433,MEDIUM,Light engagement or monitoring
+679,1,0.3358512851587988,MEDIUM,Light engagement or monitoring
+680,0,0.049907172199914,LOW,Monitor only
+681,0,0.2381131179472952,LOW,Monitor only
+682,0,0.108222102627514,LOW,Monitor only
+683,0,0.3806859523663138,MEDIUM,Light engagement or monitoring
+684,0,0.7507116568412783,HIGH,Immediate retention intervention
+685,1,0.8193467599005755,HIGH,Immediate retention intervention
+686,0,0.5145772051576014,MEDIUM,Light engagement or monitoring
+687,1,0.0294081013051166,LOW,Monitor only
+688,0,0.6394130095405433,HIGH,Immediate retention intervention
+689,0,0.5410069643016535,MEDIUM,Light engagement or monitoring
+690,0,0.0812876915830855,LOW,Monitor only
+691,0,0.2303706525782378,LOW,Monitor only
+692,0,0.2066718779426999,LOW,Monitor only
+693,1,0.8762874002290952,HIGH,Immediate retention intervention
+694,0,0.016234496254864,LOW,Monitor only
+695,1,0.3934860221570113,MEDIUM,Light engagement or monitoring
+696,0,0.0878688393438743,LOW,Monitor only
+697,0,0.3737250930109228,MEDIUM,Light engagement or monitoring
+698,0,0.1641117562640592,LOW,Monitor only
+699,0,0.6278549838114998,MEDIUM,Light engagement or monitoring
+700,0,0.7309448363675656,HIGH,Immediate retention intervention
+701,0,0.2494170976195788,LOW,Monitor only
+702,0,0.1844312518665557,LOW,Monitor only
+703,0,0.0286155282349039,LOW,Monitor only
+704,0,0.2644516373079679,LOW,Monitor only
+705,0,0.0094011645030917,LOW,Monitor only
+706,0,0.3578255071278307,MEDIUM,Light engagement or monitoring
+707,1,0.7417038529114744,HIGH,Immediate retention intervention
+708,0,0.0109995946448751,LOW,Monitor only
+709,0,0.0317913326694804,LOW,Monitor only
+710,1,0.8759774333911277,HIGH,Immediate retention intervention
+711,0,0.8537201700096821,HIGH,Immediate retention intervention
+712,0,0.7239495419930613,HIGH,Immediate retention intervention
+713,1,0.859479864261805,HIGH,Immediate retention intervention
+714,1,0.6709073061525194,HIGH,Immediate retention intervention
+715,0,0.1723454273798826,LOW,Monitor only
+716,0,0.4395606133748602,MEDIUM,Light engagement or monitoring
+717,1,0.4143257292726829,MEDIUM,Light engagement or monitoring
+718,0,0.8551635757696574,HIGH,Immediate retention intervention
+719,0,0.2779938261432807,LOW,Monitor only
+720,0,0.0228871416282627,LOW,Monitor only
+721,0,0.0078516157207545,LOW,Monitor only
+722,0,0.4112224833322786,MEDIUM,Light engagement or monitoring
+723,0,0.8087638113454148,HIGH,Immediate retention intervention
+724,0,0.0966495860220254,LOW,Monitor only
+725,0,0.7139826170022574,HIGH,Immediate retention intervention
+726,0,0.7230069833953,HIGH,Immediate retention intervention
+727,0,0.061543320406561,LOW,Monitor only
+728,1,0.8745599505042254,HIGH,Immediate retention intervention
+729,1,0.5749352193721022,MEDIUM,Light engagement or monitoring
+730,0,0.4917648938095906,MEDIUM,Light engagement or monitoring
+731,1,0.5621919827027879,MEDIUM,Light engagement or monitoring
+732,0,0.0207544184268792,LOW,Monitor only
+733,0,0.8399140507194038,HIGH,Immediate retention intervention
+734,0,0.820927390971229,HIGH,Immediate retention intervention
+735,1,0.7181598546716461,HIGH,Immediate retention intervention
+736,0,0.1650829617995152,LOW,Monitor only
+737,0,0.4559293027401854,MEDIUM,Light engagement or monitoring
+738,0,0.0209031821958512,LOW,Monitor only
+739,0,0.1189450741321308,LOW,Monitor only
+740,1,0.8524453616680528,HIGH,Immediate retention intervention
+741,0,0.6935842623983045,HIGH,Immediate retention intervention
+742,0,0.4074998744555831,MEDIUM,Light engagement or monitoring
+743,1,0.8141033681730921,HIGH,Immediate retention intervention
+744,1,0.4668985671194182,MEDIUM,Light engagement or monitoring
+745,1,0.4416056095946377,MEDIUM,Light engagement or monitoring
+746,0,0.8825330814132787,HIGH,Immediate retention intervention
+747,0,0.0336530348841808,LOW,Monitor only
+748,0,0.0712542091779511,LOW,Monitor only
+749,1,0.8330577203739605,HIGH,Immediate retention intervention
+750,0,0.1370825977841958,LOW,Monitor only
+751,0,0.0185478768676884,LOW,Monitor only
+752,0,0.0149208138337078,LOW,Monitor only
+753,0,0.4930136609924418,MEDIUM,Light engagement or monitoring
+754,0,0.0333440470584895,LOW,Monitor only
+755,0,0.0420295801669601,LOW,Monitor only
+756,0,0.5355769624961919,MEDIUM,Light engagement or monitoring
+757,1,0.2030766304554561,LOW,Monitor only
+758,1,0.6493318077828707,HIGH,Immediate retention intervention
+759,0,0.137806402444876,LOW,Monitor only
+760,0,0.7605851080021521,HIGH,Immediate retention intervention
+761,0,0.0108013771300154,LOW,Monitor only
+762,1,0.8701552708581116,HIGH,Immediate retention intervention
+763,0,0.6940788510794548,HIGH,Immediate retention intervention
+764,0,0.8040276933601916,HIGH,Immediate retention intervention
+765,0,0.5435459389106466,MEDIUM,Light engagement or monitoring
+766,0,0.5870800976662583,MEDIUM,Light engagement or monitoring
+767,0,0.2466718794157038,LOW,Monitor only
+768,0,0.1382894026971582,LOW,Monitor only
+769,0,0.1846087125840256,LOW,Monitor only
+770,0,0.7219259359361402,HIGH,Immediate retention intervention
+771,1,0.8549926232302337,HIGH,Immediate retention intervention
+772,0,0.2345787699898247,LOW,Monitor only
+773,0,0.6958382260118829,HIGH,Immediate retention intervention
+774,1,0.8703711750228363,HIGH,Immediate retention intervention
+775,0,0.7017203653620757,HIGH,Immediate retention intervention
+776,1,0.5080828511692165,MEDIUM,Light engagement or monitoring
+777,0,0.2439407910220709,LOW,Monitor only
+778,0,0.1225791011438537,LOW,Monitor only
+779,0,0.0793083773978038,LOW,Monitor only
+780,0,0.1986354655991586,LOW,Monitor only
+781,0,0.0542509473545191,LOW,Monitor only
+782,0,0.0522315176340067,LOW,Monitor only
+783,1,0.7514622751811348,HIGH,Immediate retention intervention
+784,0,0.0425795524705899,LOW,Monitor only
+785,0,0.0585410186116976,LOW,Monitor only
+786,0,0.6643081675220773,HIGH,Immediate retention intervention
+787,0,0.2182636995640349,LOW,Monitor only
+788,1,0.9008617666576998,HIGH,Immediate retention intervention
+789,0,0.377255669604074,MEDIUM,Light engagement or monitoring
+790,0,0.1151129005218091,LOW,Monitor only
+791,0,0.2758513778418186,LOW,Monitor only
+792,0,0.0901737523562922,LOW,Monitor only
+793,0,0.0085900244768101,LOW,Monitor only
+794,1,0.8534094746518045,HIGH,Immediate retention intervention
+795,0,0.0701603988776038,LOW,Monitor only
+796,1,0.1060779833668947,LOW,Monitor only
+797,1,0.4696876092001515,MEDIUM,Light engagement or monitoring
+798,0,0.674235649262676,HIGH,Immediate retention intervention
+799,1,0.4852216247879394,MEDIUM,Light engagement or monitoring
+800,0,0.022124213397763,LOW,Monitor only
+801,0,0.8069513299622761,HIGH,Immediate retention intervention
+802,0,0.0440504093800457,LOW,Monitor only
+803,0,0.35088066704205,MEDIUM,Light engagement or monitoring
+804,0,0.1593612011614443,LOW,Monitor only
+805,0,0.0873163434118251,LOW,Monitor only
+806,0,0.7521493473087538,HIGH,Immediate retention intervention
+807,0,0.4380002044110682,MEDIUM,Light engagement or monitoring
+808,0,0.2006421085104783,LOW,Monitor only
+809,0,0.4714781587931312,MEDIUM,Light engagement or monitoring
+810,0,0.4839664485316856,MEDIUM,Light engagement or monitoring
+811,0,0.3371911158305075,MEDIUM,Light engagement or monitoring
+812,0,0.0660171579607746,LOW,Monitor only
+813,1,0.837150917938435,HIGH,Immediate retention intervention
+814,0,0.8972221770704962,HIGH,Immediate retention intervention
+815,0,0.1236420254315068,LOW,Monitor only
+816,1,0.8272966426127667,HIGH,Immediate retention intervention
+817,0,0.7547321443648042,HIGH,Immediate retention intervention
+818,1,0.8159133819057184,HIGH,Immediate retention intervention
+819,0,0.057426569227519,LOW,Monitor only
+820,0,0.2822125847970209,LOW,Monitor only
+821,0,0.740414933764076,HIGH,Immediate retention intervention
+822,0,0.2608309614967575,LOW,Monitor only
+823,0,0.2955552188022178,LOW,Monitor only
+824,0,0.0271856948190011,LOW,Monitor only
+825,0,0.180723961452699,LOW,Monitor only
+826,1,0.7899637535914179,HIGH,Immediate retention intervention
+827,0,0.0332660962452262,LOW,Monitor only
+828,1,0.8782841093320957,HIGH,Immediate retention intervention
+829,1,0.7385488431567204,HIGH,Immediate retention intervention
+830,1,0.8524846250816822,HIGH,Immediate retention intervention
+831,0,0.6211271992621378,MEDIUM,Light engagement or monitoring
+832,0,0.0923980908255545,LOW,Monitor only
+833,1,0.8281624918732657,HIGH,Immediate retention intervention
+834,0,0.6750223477150104,HIGH,Immediate retention intervention
+835,0,0.1042931231645046,LOW,Monitor only
+836,0,0.08450059403935,LOW,Monitor only
+837,0,0.0058997190682292,LOW,Monitor only
+838,0,0.1309594639581917,LOW,Monitor only
+839,0,0.7264253743473358,HIGH,Immediate retention intervention
+840,0,0.0877400609546111,LOW,Monitor only
+841,1,0.313579571436079,LOW,Monitor only
+842,0,0.4746248599294526,MEDIUM,Light engagement or monitoring
+843,0,0.022913893790107,LOW,Monitor only
+844,1,0.734154065988234,HIGH,Immediate retention intervention
+845,0,0.0847914388210835,LOW,Monitor only
+846,0,0.1968313399057583,LOW,Monitor only
+847,1,0.8475098760447344,HIGH,Immediate retention intervention
+848,0,0.0475339631766138,LOW,Monitor only
+849,1,0.1616582686745153,LOW,Monitor only
+850,0,0.0144098897366188,LOW,Monitor only
+851,0,0.0824493963940967,LOW,Monitor only
+852,0,0.695342891426489,HIGH,Immediate retention intervention
+853,0,0.0289907210696345,LOW,Monitor only
+854,1,0.7616304048205975,HIGH,Immediate retention intervention
+855,0,0.4098506171982464,MEDIUM,Light engagement or monitoring
+856,1,0.7624905934133744,HIGH,Immediate retention intervention
+857,0,0.2233552886360292,LOW,Monitor only
+858,0,0.5222028134358258,MEDIUM,Light engagement or monitoring
+859,0,0.1474848627882322,LOW,Monitor only
+860,1,0.3555705200771222,MEDIUM,Light engagement or monitoring
+861,0,0.1827570345417616,LOW,Monitor only
+862,0,0.0986672387156867,LOW,Monitor only
+863,0,0.7160727402853768,HIGH,Immediate retention intervention
+864,0,0.6453204938790815,HIGH,Immediate retention intervention
+865,1,0.6243516886752314,MEDIUM,Light engagement or monitoring
+866,0,0.7113979689567335,HIGH,Immediate retention intervention
+867,0,0.0354415117267865,LOW,Monitor only
+868,0,0.0400169403025893,LOW,Monitor only
+869,0,0.0077496758896148,LOW,Monitor only
+870,0,0.5590907893624654,MEDIUM,Light engagement or monitoring
+871,0,0.5400877802094319,MEDIUM,Light engagement or monitoring
+872,1,0.8617326909838828,HIGH,Immediate retention intervention
+873,0,0.5622763986480905,MEDIUM,Light engagement or monitoring
+874,1,0.373555960437691,MEDIUM,Light engagement or monitoring
+875,1,0.4633063157173173,MEDIUM,Light engagement or monitoring
+876,0,0.4646947258029721,MEDIUM,Light engagement or monitoring
+877,0,0.4397156827062727,MEDIUM,Light engagement or monitoring
+878,0,0.5028617121810126,MEDIUM,Light engagement or monitoring
+879,0,0.0598234198351583,LOW,Monitor only
+880,1,0.6992813411030886,HIGH,Immediate retention intervention
+881,0,0.8113789023084899,HIGH,Immediate retention intervention
+882,1,0.8440458489425797,HIGH,Immediate retention intervention
+883,0,0.01654827013245,LOW,Monitor only
+884,0,0.6894164565515848,HIGH,Immediate retention intervention
+885,0,0.0824079259100173,LOW,Monitor only
+886,0,0.1960671233762288,LOW,Monitor only
+887,0,0.7205158681823498,HIGH,Immediate retention intervention
+888,0,0.7334260109525496,HIGH,Immediate retention intervention
+889,0,0.9155457496627114,HIGH,Immediate retention intervention
+890,1,0.447110205165285,MEDIUM,Light engagement or monitoring
+891,0,0.3578115052185618,MEDIUM,Light engagement or monitoring
+892,0,0.655759720329544,HIGH,Immediate retention intervention
+893,0,0.4107682884707584,MEDIUM,Light engagement or monitoring
+894,1,0.6623395543014434,HIGH,Immediate retention intervention
+895,0,0.0128394274312145,LOW,Monitor only
+896,1,0.6268519294765542,MEDIUM,Light engagement or monitoring
+897,0,0.038797955895823,LOW,Monitor only
+898,0,0.8413228312749602,HIGH,Immediate retention intervention
+899,0,0.2441617781249744,LOW,Monitor only
+900,0,0.80778880555167,HIGH,Immediate retention intervention
+901,0,0.0105423220132498,LOW,Monitor only
+902,0,0.2967582079629949,LOW,Monitor only
+903,0,0.3408569319772874,MEDIUM,Light engagement or monitoring
+904,1,0.6970825690337203,HIGH,Immediate retention intervention
+905,0,0.084955815711978,LOW,Monitor only
+906,0,0.7907921042446973,HIGH,Immediate retention intervention
+907,1,0.8433686794947914,HIGH,Immediate retention intervention
+908,1,0.4235438011100893,MEDIUM,Light engagement or monitoring
+909,0,0.3379966684531517,MEDIUM,Light engagement or monitoring
+910,1,0.248664880917466,LOW,Monitor only
+911,1,0.8169854092346116,HIGH,Immediate retention intervention
+912,0,0.1299093291098835,LOW,Monitor only
+913,0,0.7244397143484894,HIGH,Immediate retention intervention
+914,1,0.8412204836990884,HIGH,Immediate retention intervention
+915,0,0.1465352651076139,LOW,Monitor only
+916,0,0.3288155471994232,MEDIUM,Light engagement or monitoring
+917,0,0.5870990779726664,MEDIUM,Light engagement or monitoring
+918,0,0.185841730914323,LOW,Monitor only
+919,0,0.1679430867553709,LOW,Monitor only
+920,0,0.8354828917402872,HIGH,Immediate retention intervention
+921,1,0.8598355022734584,HIGH,Immediate retention intervention
+922,0,0.1639250041928055,LOW,Monitor only
+923,1,0.2622400332524029,LOW,Monitor only
+924,0,0.0241184938761082,LOW,Monitor only
+925,1,0.596890952357079,MEDIUM,Light engagement or monitoring
+926,0,0.0233571759045301,LOW,Monitor only
+927,0,0.4728782849186228,MEDIUM,Light engagement or monitoring
+928,0,0.4089953189345414,MEDIUM,Light engagement or monitoring
+929,0,0.5330678678759176,MEDIUM,Light engagement or monitoring
+930,0,0.2259078505436201,LOW,Monitor only
+931,1,0.0675892208965711,LOW,Monitor only
+932,0,0.3341136191475496,MEDIUM,Light engagement or monitoring
+933,0,0.649402110127866,HIGH,Immediate retention intervention
+934,0,0.042944952256286,LOW,Monitor only
+935,0,0.479302100181252,MEDIUM,Light engagement or monitoring
+936,0,0.7398798372571519,HIGH,Immediate retention intervention
+937,0,0.047256436485995,LOW,Monitor only
+938,0,0.7556854887899398,HIGH,Immediate retention intervention
+939,0,0.0077929931453475,LOW,Monitor only
+940,1,0.8442601185664688,HIGH,Immediate retention intervention
+941,0,0.0599109882013663,LOW,Monitor only
+942,0,0.1597649240828559,LOW,Monitor only
+943,0,0.8453974424795846,HIGH,Immediate retention intervention
+944,0,0.0726616973328958,LOW,Monitor only
+945,0,0.7272901996224271,HIGH,Immediate retention intervention
+946,0,0.3504445151815178,MEDIUM,Light engagement or monitoring
+947,1,0.8706656629286461,HIGH,Immediate retention intervention
+948,1,0.850857288668262,HIGH,Immediate retention intervention
+949,1,0.8202471470693832,HIGH,Immediate retention intervention
+950,1,0.7798285405573092,HIGH,Immediate retention intervention
+951,1,0.1398169609068585,LOW,Monitor only
+952,0,0.8680931459094556,HIGH,Immediate retention intervention
+953,0,0.0147523672451301,LOW,Monitor only
+954,1,0.8564617713971773,HIGH,Immediate retention intervention
+955,0,0.0089538838302277,LOW,Monitor only
+956,0,0.6288752428421444,MEDIUM,Light engagement or monitoring
+957,0,0.8187189758680136,HIGH,Immediate retention intervention
+958,1,0.873142666813858,HIGH,Immediate retention intervention
+959,0,0.3292759646066392,MEDIUM,Light engagement or monitoring
+960,1,0.8545648196975686,HIGH,Immediate retention intervention
+961,0,0.0996335687689854,LOW,Monitor only
+962,1,0.7108046642778553,HIGH,Immediate retention intervention
+963,0,0.2494157732019396,LOW,Monitor only
+964,0,0.0133145812359926,LOW,Monitor only
+965,0,0.0649658670357754,LOW,Monitor only
+966,1,0.7872184655227084,HIGH,Immediate retention intervention
+967,0,0.7025251583608055,HIGH,Immediate retention intervention
+968,0,0.0100894308995155,LOW,Monitor only
+969,0,0.0160543620586056,LOW,Monitor only
+970,0,0.0165709714694114,LOW,Monitor only
+971,0,0.5084538734651264,MEDIUM,Light engagement or monitoring
+972,0,0.4522603814657651,MEDIUM,Light engagement or monitoring
+973,0,0.8787243363600097,HIGH,Immediate retention intervention
+974,0,0.0447713853461037,LOW,Monitor only
+975,0,0.316748836848813,MEDIUM,Light engagement or monitoring
+976,0,0.8168661588698586,HIGH,Immediate retention intervention
+977,0,0.3622092025695627,MEDIUM,Light engagement or monitoring
+978,0,0.5636447555898364,MEDIUM,Light engagement or monitoring
+979,1,0.6369876373572428,HIGH,Immediate retention intervention
+980,1,0.7311078044714702,HIGH,Immediate retention intervention
+981,0,0.4218390937423477,MEDIUM,Light engagement or monitoring
+982,0,0.3158032039214783,MEDIUM,Light engagement or monitoring
+983,0,0.0907191213936948,LOW,Monitor only
+984,0,0.016549194642424,LOW,Monitor only
+985,0,0.2356087875150405,LOW,Monitor only
+986,0,0.0184847245786294,LOW,Monitor only
+987,1,0.8713724214974443,HIGH,Immediate retention intervention
+988,0,0.5918201393131446,MEDIUM,Light engagement or monitoring
+989,0,0.5768796657266378,MEDIUM,Light engagement or monitoring
+990,0,0.1125282750688597,LOW,Monitor only
+991,0,0.0231232939450569,LOW,Monitor only
+992,1,0.3348598337365677,MEDIUM,Light engagement or monitoring
+993,0,0.7925933762193227,HIGH,Immediate retention intervention
+994,0,0.5976041903868604,MEDIUM,Light engagement or monitoring
+995,0,0.913966501274996,HIGH,Immediate retention intervention
+996,1,0.4589922921951802,MEDIUM,Light engagement or monitoring
+997,1,0.7344793216181709,HIGH,Immediate retention intervention
+998,0,0.016588993482997,LOW,Monitor only
+999,0,0.5840278614836087,MEDIUM,Light engagement or monitoring
+1000,0,0.6415236962792027,HIGH,Immediate retention intervention
+1001,0,0.7730647461900217,HIGH,Immediate retention intervention
+1002,0,0.3438988952891593,MEDIUM,Light engagement or monitoring
+1003,0,0.1745595913430402,LOW,Monitor only
+1004,0,0.2441892510704919,LOW,Monitor only
+1005,1,0.5739987375797374,MEDIUM,Light engagement or monitoring
+1006,0,0.0888502235693486,LOW,Monitor only
+1007,1,0.8420436558348484,HIGH,Immediate retention intervention
+1008,0,0.0432256355062698,LOW,Monitor only
+1009,0,0.1717136779475456,LOW,Monitor only
+1010,0,0.7096288600842717,HIGH,Immediate retention intervention
+1011,0,0.0742536530304048,LOW,Monitor only
+1012,0,0.5238982862146184,MEDIUM,Light engagement or monitoring
+1013,0,0.0480737530866675,LOW,Monitor only
+1014,0,0.3261357772675637,MEDIUM,Light engagement or monitoring
+1015,0,0.2780490826489151,LOW,Monitor only
+1016,0,0.1944063472577537,LOW,Monitor only
+1017,0,0.2757680230000097,LOW,Monitor only
+1018,0,0.5421443055335999,MEDIUM,Light engagement or monitoring
+1019,1,0.4096367412885923,MEDIUM,Light engagement or monitoring
+1020,0,0.0471204823812508,LOW,Monitor only
+1021,0,0.0123377461738205,LOW,Monitor only
+1022,0,0.7582843222054702,HIGH,Immediate retention intervention
+1023,0,0.6486253418887798,HIGH,Immediate retention intervention
+1024,1,0.4077134051893639,MEDIUM,Light engagement or monitoring
+1025,0,0.0443106792352538,LOW,Monitor only
+1026,0,0.0382379667279058,LOW,Monitor only
+1027,0,0.6702828758128607,HIGH,Immediate retention intervention
+1028,0,0.3298657808590069,MEDIUM,Light engagement or monitoring
+1029,0,0.4239528014615853,MEDIUM,Light engagement or monitoring
+1030,0,0.0357052656576417,LOW,Monitor only
+1031,0,0.1444417850666619,LOW,Monitor only
+1032,0,0.4827420174104047,MEDIUM,Light engagement or monitoring
+1033,0,0.4003403109479704,MEDIUM,Light engagement or monitoring
+1034,1,0.8809405272821792,HIGH,Immediate retention intervention
+1035,0,0.4861774032246208,MEDIUM,Light engagement or monitoring
+1036,0,0.4053110212923858,MEDIUM,Light engagement or monitoring
+1037,0,0.1162756664397928,LOW,Monitor only
+1038,0,0.4929351859276554,MEDIUM,Light engagement or monitoring
+1039,0,0.4037064685152391,MEDIUM,Light engagement or monitoring
+1040,1,0.839397261536446,HIGH,Immediate retention intervention
+1041,0,0.1545199191986427,LOW,Monitor only
+1042,0,0.1864998372797581,LOW,Monitor only
+1043,0,0.0747473785962995,LOW,Monitor only
+1044,0,0.0928570412179735,LOW,Monitor only
+1045,1,0.50852732221064,MEDIUM,Light engagement or monitoring
+1046,0,0.1776900825724527,LOW,Monitor only
+1047,0,0.2564090474856502,LOW,Monitor only
+1048,0,0.8787727601262543,HIGH,Immediate retention intervention
+1049,1,0.4859764215376323,MEDIUM,Light engagement or monitoring
+1050,0,0.110581076792852,LOW,Monitor only
+1051,0,0.1116383464338078,LOW,Monitor only
+1052,0,0.0781495799547675,LOW,Monitor only
+1053,0,0.7339373844560678,HIGH,Immediate retention intervention
+1054,0,0.0514096451277751,LOW,Monitor only
+1055,0,0.01707713039176,LOW,Monitor only
+1056,1,0.8331295053699238,HIGH,Immediate retention intervention
+1057,0,0.0413645015599187,LOW,Monitor only
+1058,1,0.8001918474479038,HIGH,Immediate retention intervention
+1059,0,0.0094302164242635,LOW,Monitor only
+1060,0,0.0234651416314394,LOW,Monitor only
+1061,1,0.708249186568405,HIGH,Immediate retention intervention
+1062,0,0.0587903524448659,LOW,Monitor only
+1063,0,0.4117213062510531,MEDIUM,Light engagement or monitoring
+1064,1,0.7569166408920494,HIGH,Immediate retention intervention
+1065,0,0.3996993189348483,MEDIUM,Light engagement or monitoring
+1066,1,0.8683122528011123,HIGH,Immediate retention intervention
+1067,0,0.4705687715926965,MEDIUM,Light engagement or monitoring
+1068,0,0.1269439405564354,LOW,Monitor only
+1069,0,0.0170785590404462,LOW,Monitor only
+1070,0,0.3180012175749995,MEDIUM,Light engagement or monitoring
+1071,0,0.5223114678330646,MEDIUM,Light engagement or monitoring
+1072,0,0.4871643567880799,MEDIUM,Light engagement or monitoring
+1073,0,0.797984983862572,HIGH,Immediate retention intervention
+1074,0,0.6986773791464105,HIGH,Immediate retention intervention
+1075,0,0.4376939821433954,MEDIUM,Light engagement or monitoring
+1076,0,0.1209282689530794,LOW,Monitor only
+1077,0,0.2007472270740834,LOW,Monitor only
+1078,1,0.5471163984017078,MEDIUM,Light engagement or monitoring
+1079,0,0.1838952918913097,LOW,Monitor only
+1080,0,0.2999041166704531,LOW,Monitor only
+1081,0,0.0482284752720218,LOW,Monitor only
+1082,0,0.763393205850103,HIGH,Immediate retention intervention
+1083,1,0.8143260975523171,HIGH,Immediate retention intervention
+1084,0,0.6764738066482571,HIGH,Immediate retention intervention
+1085,0,0.6967049156573798,HIGH,Immediate retention intervention
+1086,0,0.0348632434820991,LOW,Monitor only
+1087,0,0.1149198032048765,LOW,Monitor only
+1088,1,0.859176402702441,HIGH,Immediate retention intervention
+1089,0,0.1333767530201768,LOW,Monitor only
+1090,1,0.9342699951630296,HIGH,Immediate retention intervention
+1091,0,0.4834519873385911,MEDIUM,Light engagement or monitoring
+1092,0,0.9067017120388404,HIGH,Immediate retention intervention
+1093,1,0.8038205200159847,HIGH,Immediate retention intervention
+1094,0,0.6274830119897857,MEDIUM,Light engagement or monitoring
+1095,0,0.1613299857854286,LOW,Monitor only
+1096,0,0.0809748691596049,LOW,Monitor only
+1097,0,0.4062194262148946,MEDIUM,Light engagement or monitoring
+1098,0,0.2174524969024187,LOW,Monitor only
+1099,1,0.0153812960932127,LOW,Monitor only
+1100,1,0.1525952096460038,LOW,Monitor only
+1101,1,0.5986793350896596,MEDIUM,Light engagement or monitoring
+1102,0,0.7803161816542462,HIGH,Immediate retention intervention
+1103,0,0.0711197940447448,LOW,Monitor only
+1104,0,0.6487407604426313,HIGH,Immediate retention intervention
+1105,0,0.0108802236718275,LOW,Monitor only
+1106,0,0.7160700748997776,HIGH,Immediate retention intervention
+1107,0,0.6855002471151641,HIGH,Immediate retention intervention
+1108,0,0.1845717617457123,LOW,Monitor only
+1109,1,0.91610982828845,HIGH,Immediate retention intervention
+1110,0,0.0454009495812654,LOW,Monitor only
+1111,0,0.0513221774381633,LOW,Monitor only
+1112,0,0.6019869512605448,MEDIUM,Light engagement or monitoring
+1113,0,0.5075614248953495,MEDIUM,Light engagement or monitoring
+1114,0,0.0369613114656747,LOW,Monitor only
+1115,0,0.3266519553152193,MEDIUM,Light engagement or monitoring
+1116,1,0.8512263405547312,HIGH,Immediate retention intervention
+1117,1,0.8329574355121729,HIGH,Immediate retention intervention
+1118,1,0.8748400256040462,HIGH,Immediate retention intervention
+1119,0,0.630869402746325,HIGH,Immediate retention intervention
+1120,1,0.7555173936927688,HIGH,Immediate retention intervention
+1121,0,0.0136513059483248,LOW,Monitor only
+1122,0,0.0211030497092922,LOW,Monitor only
+1123,0,0.8535027429816138,HIGH,Immediate retention intervention
+1124,0,0.010971599806268,LOW,Monitor only
+1125,0,0.5056429059357314,MEDIUM,Light engagement or monitoring
+1126,0,0.6875771962434366,HIGH,Immediate retention intervention
+1127,1,0.885740301056897,HIGH,Immediate retention intervention
+1128,0,0.0598057210430729,LOW,Monitor only
+1129,0,0.0994921423279454,LOW,Monitor only
+1130,0,0.0391462448181533,LOW,Monitor only
+1131,0,0.1127563927825913,LOW,Monitor only
+1132,0,0.5177877421436164,MEDIUM,Light engagement or monitoring
+1133,1,0.8639166871569847,HIGH,Immediate retention intervention
+1134,0,0.0736034418731425,LOW,Monitor only
+1135,1,0.7517472471252238,HIGH,Immediate retention intervention
+1136,0,0.017157203391486,LOW,Monitor only
+1137,1,0.6042348553840284,MEDIUM,Light engagement or monitoring
+1138,1,0.9182289013057744,HIGH,Immediate retention intervention
+1139,1,0.7384637916520022,HIGH,Immediate retention intervention
+1140,0,0.673279306401038,HIGH,Immediate retention intervention
+1141,1,0.3599282102780048,MEDIUM,Light engagement or monitoring
+1142,0,0.0263050402159613,LOW,Monitor only
+1143,0,0.0153495481232605,LOW,Monitor only
+1144,0,0.0816688261177719,LOW,Monitor only
+1145,1,0.1282917751325839,LOW,Monitor only
+1146,1,0.7959576045278175,HIGH,Immediate retention intervention
+1147,0,0.4784959790302766,MEDIUM,Light engagement or monitoring
+1148,1,0.7387030669897063,HIGH,Immediate retention intervention
+1149,0,0.5574919504579798,MEDIUM,Light engagement or monitoring
+1150,1,0.733894267493847,HIGH,Immediate retention intervention
+1151,1,0.7306413194778095,HIGH,Immediate retention intervention
+1152,0,0.7399620121874634,HIGH,Immediate retention intervention
+1153,0,0.018325119037869,LOW,Monitor only
+1154,0,0.0691007743739023,LOW,Monitor only
+1155,1,0.7954882887722323,HIGH,Immediate retention intervention
+1156,0,0.0276585743208006,LOW,Monitor only
+1157,1,0.7154983622499524,HIGH,Immediate retention intervention
+1158,1,0.8047957316575018,HIGH,Immediate retention intervention
+1159,1,0.7096734777629464,HIGH,Immediate retention intervention
+1160,1,0.7467258244379529,HIGH,Immediate retention intervention
+1161,0,0.3752684223170259,MEDIUM,Light engagement or monitoring
+1162,0,0.0894655229161181,LOW,Monitor only
+1163,1,0.796544479969839,HIGH,Immediate retention intervention
+1164,1,0.9153059046014932,HIGH,Immediate retention intervention
+1165,0,0.0304238795326106,LOW,Monitor only
+1166,0,0.1492261090300101,LOW,Monitor only
+1167,0,0.0461780675024676,LOW,Monitor only
+1168,0,0.0663810602392706,LOW,Monitor only
+1169,0,0.4701504409640012,MEDIUM,Light engagement or monitoring
+1170,0,0.0366950121658513,LOW,Monitor only
+1171,0,0.8565626420569107,HIGH,Immediate retention intervention
+1172,0,0.8782022609267592,HIGH,Immediate retention intervention
+1173,1,0.7142335610990347,HIGH,Immediate retention intervention
+1174,0,0.1723939208696434,LOW,Monitor only
+1175,1,0.91840864260915,HIGH,Immediate retention intervention
+1176,0,0.2742908400818593,LOW,Monitor only
+1177,0,0.2352095567283687,LOW,Monitor only
+1178,1,0.8490368135207776,HIGH,Immediate retention intervention
+1179,0,0.4006885471722999,MEDIUM,Light engagement or monitoring
+1180,0,0.1286032090111945,LOW,Monitor only
+1181,1,0.4759478080305704,MEDIUM,Light engagement or monitoring
+1182,0,0.7158502450841235,HIGH,Immediate retention intervention
+1183,0,0.1924436927132579,LOW,Monitor only
+1184,0,0.2199857982498149,LOW,Monitor only
+1185,0,0.06556510413693,LOW,Monitor only
+1186,1,0.6565862604524685,HIGH,Immediate retention intervention
+1187,0,0.6796254900272937,HIGH,Immediate retention intervention
+1188,1,0.8777382327166687,HIGH,Immediate retention intervention
+1189,0,0.1613533867911264,LOW,Monitor only
+1190,0,0.7401359895093873,HIGH,Immediate retention intervention
+1191,0,0.8061279505617804,HIGH,Immediate retention intervention
+1192,0,0.639469126919964,HIGH,Immediate retention intervention
+1193,0,0.4651847532083535,MEDIUM,Light engagement or monitoring
+1194,0,0.0150924753408447,LOW,Monitor only
+1195,0,0.2317234793765868,LOW,Monitor only
+1196,0,0.0765597640510327,LOW,Monitor only
+1197,1,0.9044031332306316,HIGH,Immediate retention intervention
+1198,0,0.2085032275641054,LOW,Monitor only
+1199,0,0.017751036766724,LOW,Monitor only
+1200,1,0.753268689608082,HIGH,Immediate retention intervention
+1201,0,0.4663797351531065,MEDIUM,Light engagement or monitoring
+1202,0,0.2505021462773699,LOW,Monitor only
+1203,0,0.1749818838936734,LOW,Monitor only
+1204,0,0.0111361861605102,LOW,Monitor only
+1205,1,0.4813482162244876,MEDIUM,Light engagement or monitoring
+1206,0,0.45920877157254,MEDIUM,Light engagement or monitoring
+1207,0,0.33104659071989,MEDIUM,Light engagement or monitoring
+1208,0,0.6967089760201208,HIGH,Immediate retention intervention
+1209,0,0.4118120901914976,MEDIUM,Light engagement or monitoring
+1210,0,0.0474893896329139,LOW,Monitor only
+1211,1,0.8485624658602757,HIGH,Immediate retention intervention
+1212,0,0.4490400666086465,MEDIUM,Light engagement or monitoring
+1213,0,0.6557824034880118,HIGH,Immediate retention intervention
+1214,0,0.1274077511432642,LOW,Monitor only
+1215,0,0.8760227382487893,HIGH,Immediate retention intervention
+1216,1,0.7912790931722306,HIGH,Immediate retention intervention
+1217,1,0.7373499526586378,HIGH,Immediate retention intervention
+1218,0,0.1646813334212735,LOW,Monitor only
+1219,0,0.0253404358087725,LOW,Monitor only
+1220,0,0.7051378280793242,HIGH,Immediate retention intervention
+1221,1,0.923454612763064,HIGH,Immediate retention intervention
+1222,0,0.8737161958996564,HIGH,Immediate retention intervention
+1223,1,0.7767215859969137,HIGH,Immediate retention intervention
+1224,1,0.7822945930341387,HIGH,Immediate retention intervention
+1225,0,0.699671362661533,HIGH,Immediate retention intervention
+1226,0,0.0500068961962083,LOW,Monitor only
+1227,0,0.0435154594444351,LOW,Monitor only
+1228,0,0.0093964711899279,LOW,Monitor only
+1229,1,0.7959253135053678,HIGH,Immediate retention intervention
+1230,0,0.0227529442459164,LOW,Monitor only
+1231,0,0.5399575203021778,MEDIUM,Light engagement or monitoring
+1232,0,0.4631629054341319,MEDIUM,Light engagement or monitoring
+1233,1,0.8327671505854355,HIGH,Immediate retention intervention
+1234,0,0.3709107862848585,MEDIUM,Light engagement or monitoring
+1235,0,0.7272722354446568,HIGH,Immediate retention intervention
+1236,1,0.8318562567643526,HIGH,Immediate retention intervention
+1237,0,0.0382303523932236,LOW,Monitor only
+1238,0,0.1913249317811971,LOW,Monitor only
+1239,0,0.0093444548145449,LOW,Monitor only
+1240,0,0.2071599583160375,LOW,Monitor only
+1241,0,0.1221714375115495,LOW,Monitor only
+1242,0,0.2495333768750317,LOW,Monitor only
+1243,0,0.7278752656050025,HIGH,Immediate retention intervention
+1244,0,0.0490814051013271,LOW,Monitor only
+1245,0,0.1447497453089034,LOW,Monitor only
+1246,0,0.6205275523107969,MEDIUM,Light engagement or monitoring
+1247,1,0.4675770553869854,MEDIUM,Light engagement or monitoring
+1248,0,0.1330430062761756,LOW,Monitor only
+1249,0,0.7100526534808796,HIGH,Immediate retention intervention
+1250,1,0.7865564679094225,HIGH,Immediate retention intervention
+1251,0,0.556222768653419,MEDIUM,Light engagement or monitoring
+1252,1,0.8506567657344776,HIGH,Immediate retention intervention
+1253,0,0.1322610307832376,LOW,Monitor only
+1254,1,0.6725296304280711,HIGH,Immediate retention intervention
+1255,0,0.608796274665668,MEDIUM,Light engagement or monitoring
+1256,0,0.0148261663818626,LOW,Monitor only
+1257,1,0.7629136832857355,HIGH,Immediate retention intervention
+1258,0,0.1707959197993266,LOW,Monitor only
+1259,1,0.8781910622183515,HIGH,Immediate retention intervention
+1260,0,0.0438982230355125,LOW,Monitor only
+1261,0,0.0513260297099224,LOW,Monitor only
+1262,0,0.0540399748599275,LOW,Monitor only
+1263,0,0.2988995063680167,LOW,Monitor only
+1264,0,0.2401497687405253,LOW,Monitor only
+1265,0,0.0261778547467881,LOW,Monitor only
+1266,0,0.3590564562404352,MEDIUM,Light engagement or monitoring
+1267,1,0.8339213414747966,HIGH,Immediate retention intervention
+1268,0,0.032490881121308,LOW,Monitor only
+1269,0,0.84298395248063,HIGH,Immediate retention intervention
+1270,1,0.7924144678817187,HIGH,Immediate retention intervention
+1271,0,0.6323271063629647,HIGH,Immediate retention intervention
+1272,0,0.1575036489959433,LOW,Monitor only
+1273,0,0.0051061906336002,LOW,Monitor only
+1274,1,0.862759056309874,HIGH,Immediate retention intervention
+1275,0,0.5997798804269056,MEDIUM,Light engagement or monitoring
+1276,1,0.3649179810712802,MEDIUM,Light engagement or monitoring
+1277,1,0.6639090101822966,HIGH,Immediate retention intervention
+1278,0,0.2166423776310861,LOW,Monitor only
+1279,0,0.4370261465359503,MEDIUM,Light engagement or monitoring
+1280,0,0.5212582431205074,MEDIUM,Light engagement or monitoring
+1281,0,0.0886436727065549,LOW,Monitor only
+1282,0,0.0144145968705936,LOW,Monitor only
+1283,0,0.395465615510245,MEDIUM,Light engagement or monitoring
+1284,1,0.549802359105821,MEDIUM,Light engagement or monitoring
+1285,0,0.8754435769985707,HIGH,Immediate retention intervention
+1286,1,0.844074554355789,HIGH,Immediate retention intervention
+1287,0,0.21638212322354,LOW,Monitor only
+1288,1,0.8332214333051579,HIGH,Immediate retention intervention
+1289,1,0.868584552127161,HIGH,Immediate retention intervention
+1290,0,0.0089951633791321,LOW,Monitor only
+1291,0,0.6146702766311973,MEDIUM,Light engagement or monitoring
+1292,1,0.7790005929175213,HIGH,Immediate retention intervention
+1293,0,0.3803264701286438,MEDIUM,Light engagement or monitoring
+1294,0,0.531440969615081,MEDIUM,Light engagement or monitoring
+1295,0,0.3878460132767666,MEDIUM,Light engagement or monitoring
+1296,0,0.0744443460094623,LOW,Monitor only
+1297,0,0.0173463130806262,LOW,Monitor only
+1298,0,0.8619371341476914,HIGH,Immediate retention intervention
+1299,0,0.6683286115614973,HIGH,Immediate retention intervention
+1300,1,0.8678268619798631,HIGH,Immediate retention intervention
+1301,0,0.046882940428908,LOW,Monitor only
+1302,0,0.0786590530841239,LOW,Monitor only
+1303,0,0.0235690955233226,LOW,Monitor only
+1304,0,0.4711273610303071,MEDIUM,Light engagement or monitoring
+1305,0,0.3603229496457365,MEDIUM,Light engagement or monitoring
+1306,0,0.0847963385117192,LOW,Monitor only
+1307,0,0.7377127544736506,HIGH,Immediate retention intervention
+1308,0,0.0716549411392831,LOW,Monitor only
+1309,1,0.6031839609108389,MEDIUM,Light engagement or monitoring
+1310,0,0.0094354426525068,LOW,Monitor only
+1311,0,0.3373228732669044,MEDIUM,Light engagement or monitoring
+1312,0,0.4056620387002069,MEDIUM,Light engagement or monitoring
+1313,0,0.5517862929561185,MEDIUM,Light engagement or monitoring
+1314,1,0.7491027947797944,HIGH,Immediate retention intervention
+1315,0,0.3053863223530632,LOW,Monitor only
+1316,0,0.2403292272955882,LOW,Monitor only
+1317,0,0.2444624911681227,LOW,Monitor only
+1318,1,0.5112984971516283,MEDIUM,Light engagement or monitoring
+1319,0,0.0377485061903253,LOW,Monitor only
+1320,1,0.7200280498515916,HIGH,Immediate retention intervention
+1321,0,0.0292952394572632,LOW,Monitor only
+1322,1,0.6542045736960238,HIGH,Immediate retention intervention
+1323,0,0.1875772016875423,LOW,Monitor only
+1324,0,0.2616358722036462,LOW,Monitor only
+1325,0,0.3022340569906907,LOW,Monitor only
+1326,0,0.4675738981531651,MEDIUM,Light engagement or monitoring
+1327,1,0.8070010770858196,HIGH,Immediate retention intervention
+1328,0,0.017796115508607,LOW,Monitor only
+1329,0,0.2009415153633831,LOW,Monitor only
+1330,0,0.1320123370676131,LOW,Monitor only
+1331,1,0.6354527575172034,HIGH,Immediate retention intervention
+1332,0,0.2908396813043126,LOW,Monitor only
+1333,1,0.6904061660674634,HIGH,Immediate retention intervention
+1334,1,0.8223594970226528,HIGH,Immediate retention intervention
+1335,0,0.0661169047424587,LOW,Monitor only
+1336,0,0.1675287143392243,LOW,Monitor only
+1337,0,0.3844125950156065,MEDIUM,Light engagement or monitoring
+1338,1,0.8129612792537432,HIGH,Immediate retention intervention
+1339,1,0.8311413487185694,HIGH,Immediate retention intervention
+1340,0,0.0186083464101952,LOW,Monitor only
+1341,0,0.1085277265496805,LOW,Monitor only
+1342,0,0.0213507407159008,LOW,Monitor only
+1343,0,0.1788434211425441,LOW,Monitor only
+1344,0,0.0067672810933761,LOW,Monitor only
+1345,0,0.0270256429901007,LOW,Monitor only
+1346,1,0.8189210339981648,HIGH,Immediate retention intervention
+1347,1,0.666861456013861,HIGH,Immediate retention intervention
+1348,0,0.0199788484159699,LOW,Monitor only
+1349,0,0.6792169786933397,HIGH,Immediate retention intervention
+1350,0,0.087150227907268,LOW,Monitor only
+1351,0,0.291457314280022,LOW,Monitor only
+1352,1,0.725988871587904,HIGH,Immediate retention intervention
+1353,0,0.0354779332023326,LOW,Monitor only
+1354,0,0.5168494904963002,MEDIUM,Light engagement or monitoring
+1355,0,0.9137083302544524,HIGH,Immediate retention intervention
+1356,0,0.1387574454231427,LOW,Monitor only
+1357,0,0.3977912024614339,MEDIUM,Light engagement or monitoring
+1358,0,0.062269927645563,LOW,Monitor only
+1359,0,0.4637924422479327,MEDIUM,Light engagement or monitoring
+1360,0,0.4083269809282839,MEDIUM,Light engagement or monitoring
+1361,1,0.4397851915249864,MEDIUM,Light engagement or monitoring
+1362,1,0.3055725693353874,LOW,Monitor only
+1363,0,0.4413548040451938,MEDIUM,Light engagement or monitoring
+1364,0,0.546331221689576,MEDIUM,Light engagement or monitoring
+1365,0,0.6048252827461855,MEDIUM,Light engagement or monitoring
+1366,1,0.8498686513466256,HIGH,Immediate retention intervention
+1367,0,0.0120688598690014,LOW,Monitor only
+1368,0,0.6247530509671857,MEDIUM,Light engagement or monitoring
+1369,0,0.4721112440147594,MEDIUM,Light engagement or monitoring
+1370,0,0.0976824214168388,LOW,Monitor only
+1371,0,0.4577305247783143,MEDIUM,Light engagement or monitoring
+1372,0,0.3002227400528232,LOW,Monitor only
+1373,1,0.8242553398603175,HIGH,Immediate retention intervention
+1374,1,0.6993044507575806,HIGH,Immediate retention intervention
+1375,0,0.0545005686010522,LOW,Monitor only
+1376,0,0.1471197638333241,LOW,Monitor only
+1377,1,0.7669286207077621,HIGH,Immediate retention intervention
+1378,1,0.7545776436807301,HIGH,Immediate retention intervention
+1379,1,0.8244275048765898,HIGH,Immediate retention intervention
+1380,0,0.0613941055404513,LOW,Monitor only
+1381,0,0.3487825304107416,MEDIUM,Light engagement or monitoring
+1382,0,0.6197833268240636,MEDIUM,Light engagement or monitoring
+1383,0,0.0363970375255258,LOW,Monitor only
+1384,0,0.4283163506637216,MEDIUM,Light engagement or monitoring
+1385,1,0.3851348709144407,MEDIUM,Light engagement or monitoring
+1386,0,0.6833067437793805,HIGH,Immediate retention intervention
+1387,0,0.2043860734933436,LOW,Monitor only
+1388,1,0.6853692583359763,HIGH,Immediate retention intervention
+1389,0,0.142000059850949,LOW,Monitor only
+1390,0,0.710780345467563,HIGH,Immediate retention intervention
+1391,0,0.5963997556491022,MEDIUM,Light engagement or monitoring
+1392,0,0.0671154291988029,LOW,Monitor only
+1393,1,0.8392629173780662,HIGH,Immediate retention intervention
+1394,0,0.0730293343234927,LOW,Monitor only
+1395,0,0.5956434929074194,MEDIUM,Light engagement or monitoring
+1396,0,0.8003710958156592,HIGH,Immediate retention intervention
+1397,0,0.4128484263717301,MEDIUM,Light engagement or monitoring
+1398,0,0.0801869927974293,LOW,Monitor only
+1399,1,0.8642510170638392,HIGH,Immediate retention intervention
+1400,0,0.1396898789692061,LOW,Monitor only
+1401,0,0.0332608012066245,LOW,Monitor only
+1402,0,0.0249196491732486,LOW,Monitor only
+1403,0,0.0639673815210046,LOW,Monitor only
+1404,0,0.0987799606555697,LOW,Monitor only
+1405,0,0.0413491546251575,LOW,Monitor only
+1406,0,0.355726711348684,MEDIUM,Light engagement or monitoring
+1407,0,0.0128304462969419,LOW,Monitor only
+1408,0,0.0160033842044971,LOW,Monitor only
