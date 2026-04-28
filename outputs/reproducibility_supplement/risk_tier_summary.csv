@@ -1,4 +1,0 @@
-risk_tier,customer_count,actual_churn_count,actual_churn_rate
-HIGH,468,259,0.5534188034188035
-MEDIUM,330,88,0.26666666666666666
-LOW,611,27,0.044189852700491
