@@ -1,0 +1,4 @@
+split,row_count,feature_count,churn_prevalence
+train,4507,23,0.2653649877967606
+validation,1127,23,0.2653061224489796
+test,1409,23,0.2654364797728886
