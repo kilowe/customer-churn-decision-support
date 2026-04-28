@@ -3,6 +3,7 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
@@ -84,6 +85,37 @@ def fit_models_and_export_probabilities() -> None:
     baseline_model.fit(X_train, y_train)
     balanced_model.fit(X_train, y_train)
 
+    # ----------------------------
+    # Coefficients and odds ratios (top churn drivers)
+    # ----------------------------
+    # Why:
+    # - The coefficients tell us, for each feature, the direction and
+    #   magnitude of its association with churn in the fitted model.
+    # - odds_ratio = exp(coef) converts the coefficient into a multiplicative
+    #   effect on the odds of churn, which is easier to interpret.
+    # - We do this for both models so we can compare baseline vs balanced.
+    coefficients_odds_ratios = pd.DataFrame(
+        {
+            "variable": X_train.columns,
+            "coef_baseline": baseline_model.coef_[0],
+            "odds_ratio_baseline": np.exp(baseline_model.coef_[0]),
+            "coef_balanced": balanced_model.coef_[0],
+            "odds_ratio_balanced": np.exp(balanced_model.coef_[0]),
+        }
+    ).sort_values("coef_baseline", key=lambda s: s.abs(), ascending=False)
+
+    coefficients_odds_ratios.to_csv(
+        OUTPUT_DIR / "coefficients_odds_ratios.csv", index=False
+    )
+
+    print("\n" + "=" * 80)
+    print("COEFFICIENTS AND ODDS RATIOS")
+    print("=" * 80)
+    print(f"Baseline intercept: {baseline_model.intercept_[0]:.4f}")
+    print(f"Balanced intercept: {balanced_model.intercept_[0]:.4f}")
+    print("\nTop drivers (sorted by |coef_baseline|):")
+    print(coefficients_odds_ratios.to_string(index=False))
+
     val_baseline_proba = baseline_model.predict_proba(X_val)[:, 1]
     val_balanced_proba = balanced_model.predict_proba(X_val)[:, 1]
 
@@ -153,6 +185,7 @@ def fit_models_and_export_probabilities() -> None:
     print(f"- {OUTPUT_DIR / 'split_summary.csv'}")
     print(f"- {OUTPUT_DIR / 'validation_probabilities.csv'}")
     print(f"- {OUTPUT_DIR / 'test_probabilities.csv'}")
+    print(f"- {OUTPUT_DIR / 'coefficients_odds_ratios.csv'}")
 
 
 if __name__ == "__main__":

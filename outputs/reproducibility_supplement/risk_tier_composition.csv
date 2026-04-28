@@ -1,0 +1,4 @@
+risk_tier,customer_count,pct_fiber,pct_month_to_month,pct_no_tech_support,pct_all_three_combined
+HIGH,468,80.77,98.5,88.03,69.66
+MEDIUM,330,36.67,72.12,73.64,9.09
+LOW,611,18.66,12.11,58.76,0.33
