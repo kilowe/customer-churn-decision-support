@@ -14,7 +14,7 @@ from sklearn.metrics import (
 )
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_DIR = PROJECT_ROOT / "outputs" / "reproducibility_supplement"
 TEST_PROB_PATH = OUTPUT_DIR / "test_probabilities.csv"
 SELECTED_THRESHOLDS_PATH = OUTPUT_DIR / "selected_thresholds.csv"

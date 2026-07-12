@@ -13,7 +13,7 @@ from sklearn.metrics import (
 )
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_DIR = PROJECT_ROOT / "outputs" / "reproducibility_supplement"
 VALIDATION_PATH = OUTPUT_DIR / "validation_probabilities.csv"
 
@@ -30,7 +30,7 @@ SCENARIOS = {
 
 
 def build_threshold_grid() -> pd.DataFrame:
-    """Evaluate validation metrics across thresholds for both models.
+    """The Evaluate validation metrics across thresholds for both models.
 
     Why:
     Threshold selection must be based on validation data only.
