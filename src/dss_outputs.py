@@ -16,9 +16,16 @@ LOW_ACTION = "Monitor only"
 
 
 def select_primary_threshold(selected_df: pd.DataFrame) -> float:
-    """Pick balanced max_f1 threshold as primary DSS threshold when available."""
+    """Pick baseline max_f1 threshold as primary DSS threshold when available.
+
+    Why baseline:
+    The thesis recommendation (chapter 4.7) is cost-based, not F1-based, and
+    it holds for the baseline model. The paired t-test across 15 seeds found
+    no significant total-cost difference between baseline and balanced
+    (Appendix F), so the DSS uses the baseline model by default.
+    """
     preferred = selected_df[
-        (selected_df["model"] == "balanced")
+        (selected_df["model"] == "baseline")
         & (selected_df["selection_type"] == "max_f1")
     ]
 
@@ -28,7 +35,7 @@ def select_primary_threshold(selected_df: pd.DataFrame) -> float:
     fallback = selected_df[selected_df["selection_type"] == "max_f1"]
     if not fallback.empty:
         print(
-            "[Warning] Balanced max_f1 threshold missing. Using first available max_f1 threshold."
+            "[Warning] Baseline max_f1 threshold missing. Using first available max_f1 threshold."
         )
         return float(fallback.iloc[0]["threshold"])
 
@@ -76,7 +83,7 @@ def generate_dss_outputs() -> None:
         {
             "row_id": test_df["row_id"],
             "y_true": test_df["y_true"],
-            "churn_probability": test_df["balanced_proba"],
+            "churn_probability": test_df["baseline_proba"],
         }
     )
 

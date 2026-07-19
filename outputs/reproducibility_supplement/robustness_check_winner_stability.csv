@@ -1,0 +1,4 @@
+scenario,n_seeds,balanced_wins,baseline_wins,mean_cost_gap,std_cost_gap
+high_incentive,15,6,9,660.0,1510.2506887457932
+low_incentive,15,9,6,-24.0,709.5853920222912
+medium_incentive,15,3,12,80.0,507.43050192682966
